@@ -1,7 +1,21 @@
 # Checkpoint
 
-Please verify your understanding of [unit lessons] with the following exercises.
+#### !challenge
 
-## Exercises
+* type: paragraph
+* id: aac10502-3486-401c-9401-84fd13b20b42
+* title: Question 1
 
-[Checkpoint challenges should combine elements from all the unit lessons. While not required, these challenges will often include code-snippet and testable-project challenges.]
+##### !question
+
+What did you learn in this unit, and what are you still unsure about? 
+
+##### !end-question
+
+##### !placeholder
+
+Submit your answer here:
+
+##### !end-placeholder
+
+#### !end-challenge
