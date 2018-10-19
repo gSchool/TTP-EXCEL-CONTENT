@@ -1,0 +1,9 @@
+[submodule ".dev/galvanize-curriculum-tools"]
+	path = .dev/galvanize-curriculum-tools
+	url = git@github.com:gSchool/galvanize-curriculum-tools.git
+[submodule ".dev/block_parser"]
+	path = .dev/block_parser
+	url = git@github.com:Galvanize-IT/block_parser.git
+[submodule ".dev/block-team-sync"]
+	path = .dev/block-team-sync
+	url = git@github.com:gSchool/block-team-sync.git

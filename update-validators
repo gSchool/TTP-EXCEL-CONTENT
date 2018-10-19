@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ ! -f .gitmodules ];
+then
+  echo "No submodules initialized. Run './setup' to correct"
+  exit 1
+fi
+
+git submodule update --init --remote --force
+git submodule foreach './build'

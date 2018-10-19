@@ -1,0 +1,26 @@
+#!/bin/bash
+
+set -e
+
+dev_dir=".dev"
+if [ -d "$dev_dir" ];
+then
+  git submodule deinit --force -- ${dev_dir}/* || :
+  rm -rf $dev_dir
+fi
+mkdir $dev_dir
+
+if [ -f .gitmodules ];
+then
+  git submodule update --init --remote --force
+else
+  pushd $dev_dir >/dev/null
+
+  git submodule add -f git@github.com:gSchool/galvanize-curriculum-tools.git
+  git submodule add -f git@github.com:Galvanize-IT/block_parser.git
+  git submodule add -f git@github.com:gSchool/block-team-sync.git
+
+  popd >/dev/null
+fi
+
+git submodule foreach './build'

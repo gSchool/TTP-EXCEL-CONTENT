@@ -1,0 +1,43 @@
+#!/bin/bash
+
+set -e
+
+dev_dir=".dev"
+
+echo "-------------------------------------------------------------------"
+echo "Validating config and sequence (from galvanize-curriculum-tools)..."
+echo "-------------------------------------------------------------------"
+pushd ${dev_dir}/galvanize-curriculum-tools >/dev/null
+
+./run \
+  ../.. \
+  validate-config-and-sequence \
+  /block/sequence.yml \
+  /block/config.yaml \
+  https://github.com/gSchool/java-fundamentals-block/blob/master
+
+echo "-------------------------------------------------------------------"
+echo "gchecklinks (from galvanize-curriculum-tools)..."
+echo "-------------------------------------------------------------------"
+
+./run \
+  ../.. \
+  gchecklinks \
+  /block
+
+popd >/dev/null
+
+echo ""
+
+echo "-------------------"
+echo "Validating block..."
+echo "-------------------"
+pushd ${dev_dir}/block_parser >/dev/null
+./validate-block ../..
+popd >/dev/null
+
+echo "-------------------------------------------------------------------"
+echo "Validating teams..."
+echo "-------------------------------------------------------------------"
+
+docker run --rm -v `pwd`:/block -e GITHUB_OAUTH_TOKEN=${GITHUB_OAUTH_TOKEN} -it block-team-sync /block/repos.yml
