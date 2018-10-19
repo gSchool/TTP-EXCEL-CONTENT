@@ -1,10 +1,13 @@
-Title: analytics-with-spreadsheets-block
+Title: Excel
 Standards:
-  - Title: Excel
+  - 
+    Title: Excel
     UID: 8d20f27d-b8ed-484e-be3c-8f5c05f73a9d
     Description: Organize, find insights, and communicate findings using advanced spreadsheet capabilites in Microsoft Excel.
     SuccessCriteria:
-      - Define terms?
+      - Load various types of data files into Excel 
+      - Clean and prepare data with Excel 
+      - Analyze data with Excel
     ContentFiles:
       - Type: Lesson
         UID: 7ac9327a-b56a-45c2-b847-f8e1694688bc
