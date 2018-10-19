@@ -1,33 +1,33 @@
 Title: analytics-with-spreadsheets-block
 Standards:
-  - Title: Introduction to Data Analytics using Spreadsheets
+  - Title: Excel
     UID: 8d20f27d-b8ed-484e-be3c-8f5c05f73a9d
-    Description: Organize data with Microsoft Excel
+    Description: Organize, find insights, and communicate findings using advanced spreadsheet capabilites in Microsoft Excel.
     SuccessCriteria:
       - Define terms?
     ContentFiles:
       - Type: Lesson
         UID: 7ac9327a-b56a-45c2-b847-f8e1694688bc
-        Path: /excel/overview.md
+        Path: /excel-lessons/overview.md
       - Type: Lesson
         UID: c9aaa4f5-fc32-4134-984d-1c6f02702cf9
-        Path: /excel/import-text-files.md
+        Path: /excel-lessons/import-text-files.md
       - Type: Lesson
         UID: 5eb1a2ee-c8ea-48cd-945c-a312b49cb7a5
-        Path: /excel/clean.md
+        Path: /excel-lessons/clean.md
       - Type: Lesson
         UID: 120aa273-bea4-4315-9349-efb835f809d5
-        Path: /excel/new-columns.md
+        Path: /excel-lessons/new-columns.md
       - Type: Lesson
         UID: f62115d1-1c66-4566-87b2-a5178580965b
-        Path: /excel/lookups.md
+        Path: /excel-lessons/lookups.md
       - Type: Lesson
         UID: 306c12c1-f017-4f83-b4c5-8f4641b0c078
-        Path: /excel/index-match.md
+        Path: /excel-lessons/index-match.md
       - Type: Lesson
         UID: 2974faea-d8e3-4428-8391-53f55af42798
-        Path: /excel/basic-pivot-tables.md
+        Path: /excel-lessons/basic-pivot-tables.md
       - Type: Checkpoint
-        Path: /excel/checkpoint.md
+        Path: /excel-lessons/checkpoint.md
         UID: 12b395fc-2144-4ca5-b050-413461741b85
         Autoscore: false
