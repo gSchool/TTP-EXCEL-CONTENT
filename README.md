@@ -1,3 +1,3 @@
-# Analytics with Spreadsheets Block
+# Excel
 
-Find insights and communicate findings using advanced spreadsheet capabilites
+Organize, find insights, and communicate findings using advanced spreadsheet capabilites in Microsoft Excel.
