@@ -21,12 +21,12 @@ In this block, you focus on Excel, due to the large number of organizations that
 * [Microsoft Excel on Windows (00:30)](https://teamtreehouse.com/library/microsoft-excel-on-windows)
 
 
-### Block lessons
+### Excel lessons
 
-* [Load data from text files](../load-data/import-text-files.md) - 1.25 hrs
-* [Clean the data](../clean-data/clean.md) - 1 hr
-* [Engineer new columns](../clean-data/new-columns.md) - 2 hrs
-* [Combine data using LOOKUPs](../combine-data/lookups.md) - 1.25 hrs
-* [Combine data using INDEX and MATCH](../combine-data/index-match.md) - 1.5 hrs
-* [Analyze data with pivot tables](../analyze-data/basic-pivot-tables.md) - 2 hrs
-* [Analyze data with additional pivot table capabilities](../analyze-data/more-pivot-tables.md) - 2.25 hrs
+* [Load data from text files](../excel-lessons/import-text-files.md) - 1.25 hrs
+* [Clean the data](../excel-lessons/clean.md) - 1 hr
+* [Engineer new columns](../excel-lessons/new-columns.md) - 2 hrs
+* [Combine data using LOOKUPs](../excel-lessons/lookups.md) - 1.25 hrs
+* [Combine data using INDEX and MATCH](../excel-lessons/index-match.md) - 1.5 hrs
+* [Analyze data with pivot tables](../excel-lessons/basic-pivot-tables.md) - 2 hrs
+* [Analyze data with additional pivot table capabilities](../excel-lessons/more-pivot-tables.md) - 2.25 hrs
