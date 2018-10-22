@@ -1,5 +1,13 @@
-## Galvanize Data Analytics
-# Load, clean, prepare, and analyze data with Excel
+# Advanced Excel
+
+<div class='bg-info' style='padding:8px;border-style:solid;border-width:2px;border-color:#00BFFF'>
+<strong>Aside:</strong><br>
+Hello there! 
+
+We’re so glad that you’re in our second-ever Data Analytics course. 
+
+We want this course to be perfect for you, but we also know that when a product is new there are always going to be kinks to work out—and you’re part of that process. So, do expect some kinks and please report all of them in your weekly surveys so that we’re able to keep improving this course for you and future classes. Thank you! 
+</div>
 
 The purpose of data analytics is to find and communicate insights and information. Spreadsheets are an important tool for doing this. While tools like Tableau can provide more flexible analysis and more complete visualization and communication of findings, the spreadsheet has an important place in analysis. It allows for quick analysis that can be shared easily with users. By providing analysis and reporting using spreadsheets, an analyst can provide analytics that can then be extended by the user to look at the data in more detail. Because of this low barrier to use and the intuitive way that users can work with the analytics, spreadsheets are an important tool that all analysts take advantage of.
 
