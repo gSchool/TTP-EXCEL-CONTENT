@@ -8,7 +8,7 @@
 
 ##### !question
 
-What did you learn in this unit, and what are you still unsure about? 
+How do you feel about Excel? Do you feel comfortable combining data from different sources and creating pivot tables? 
 
 ##### !end-question
 
