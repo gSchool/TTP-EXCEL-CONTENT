@@ -1,4 +1,4 @@
-# Advanced Excel
+# Advanced Excel overview
 
 <div class='bg-info' style='padding:8px;border-style:solid;border-width:2px;border-color:#00BFFF'>
 <strong>Aside:</strong><br>
