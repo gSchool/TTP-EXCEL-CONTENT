@@ -1,4 +1,4 @@
-# Analyze data with pivot tables
+# Pivot tables part 1
 
 2 hrs
 <br><br>
