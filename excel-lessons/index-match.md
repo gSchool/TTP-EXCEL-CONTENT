@@ -1,4 +1,4 @@
-# Combine data sources using INDEX and MATCH
+# INDEX and MATCH
 
 1.5 hours
 <br><br>
