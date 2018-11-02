@@ -1,4 +1,4 @@
-# Pivot tables part 1
+# Pivot tables
 
 2 hrs
 <br><br>
