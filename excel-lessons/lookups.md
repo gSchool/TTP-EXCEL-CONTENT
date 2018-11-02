@@ -1,4 +1,4 @@
-# Combine data from different sources using LOOKUPs
+# LOOKUP
 
 1.25 hrs
 <br><br>
