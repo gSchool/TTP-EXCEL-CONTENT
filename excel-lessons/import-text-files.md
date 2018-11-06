@@ -1,22 +1,17 @@
 # Data importing
-1.25 hrs
-<br>
-<br>
-In your work with SQL, you have learned how to extract the data you need from databases and save it into text data files. You saved the files in the same text file format since there is value in consistency, but there are several formats that you may want to import as well. In this lesson, you learn how to import data from a variety of file types into Excel.
-<br>
-<br>
 
-> **Think like a BI analyst**: Even though Excel is limited in the amount of data that it can hold, it can be a very useful tool for analyzing smaller data sets or providing aggregate information to users. For example, pivot tables provide a rapid way to share findings and provide interaction for users. A good business intelligence analyst uses Excel where it's appropriate, even when more sophisticated tools are available.    
-<br>
+At work, data analysts encounter multiple formats of data text files (computer files that only contain numbers and text with no special formatting), which are used to transfer data between databases and analytics tools. Each format of text file has different advantages and disadvantages—for example, some are more human-readable, others are more compatible with the outputs of modern web design—and it’s important to know how to adapt to each. 
 
-### Lesson objectives
+This lesson teaches you how to work with the most common types of data text files: comma separated values (CSV) files, JSON files, and Extensible Markup Language (XML) files. 
+
+## Lesson objectives
 
 *By the end of this lesson, you will be able to:*
 * Describe the difference between CSV, delimited, JSON, and XML data transfer files
 * Load data text files including CSV, TSV, and files with other delimiters
 * Set data types on intake
 
-### Pre-work
+## Prework
 * If you don't have a version of Excel 2013 or newer on your laptop, install a recent version of Excel. This typically requires purchasing and installing Microsoft Office—at least the Excel portion.
   * Ensure that you're installing the laptop version and not the Office 356 version (cloud only)
   * The Home and Student version of Microsoft Office is sufficent
@@ -31,13 +26,14 @@ In your work with SQL, you have learned how to extract the data you need from da
 * [Video: Adding Data to a Spreadsheet (2:18)](https://teamtreehouse.com/library/adding-data-to-a-spreadsheet)
 * [Reading: CSV vs XML vs JSON – Which is the Best Response Data Format?](https://applerepairstation.co.uk/csv-vs-xml-vs-json-which-is-the-best-response-data-format/)
 
-### Import data from text files
-**Discuss three types of text file formats for storing data - 15 min**
+## In-class work
+
+### Discuss three types of text file formats for storing data - 15 min**
   * Rows and column text files such as CSV and delimited files
   * JSON
   * XML
 
-**Code along: import csv files delimited with various delimiters - 15 min**
+### Code-along: import csv files delimited with various delimiters - 15 min**
   * Although many people use the names synonymously, there are differences between CSV and simpler delimited files
   * Download these files again if you don't have them available
     * [products.csv](https://s3-us-west-2.amazonaws.com/learn-assets.galvanize.com/gSchool/ds-curriculum/precourse/products.csv)
@@ -55,7 +51,8 @@ In your work with SQL, you have learned how to extract the data you need from da
 * title: Import data text files
 
 ##### !question
-**Exercise: import files with different delimiters - 15 min**
+
+### Exercise: import files with different delimiters - 15 min**
 * Work in pairs
 * Import a new file using Data > From Text
 * Download these Pronto files for use with Excel:
@@ -77,7 +74,7 @@ Paste link here
 
 ### !end-challenge
 
-**Code along: import data into a JSON file - 15 min**
+### Code-along: import data into a JSON file - 15 min**
 * ["Microsoft Power Query for Excel"](https://support.office.com/en-us/article/connect-to-a-json-file-f65207ab-d957-4bf0-bec3-a08bb53cd4c0#ID0EAACAAA=Newer_versions)
   * Note that the page contains a selection tab to select use instructions from Excel 2013 and earlier or recent versions of Excel
 * Download the [heath.json](https://drive.google.com/file/d/1lsMQQzdcIHJjE6W-NfC4VMxBAUxBE5mx/view?usp=sharing) file of disease volume by US state
@@ -123,7 +120,8 @@ Paste link here
 * title: Import an XML data File
 
 ##### !question
-**Optional learning:  Import an XML file into Excel**
+
+### Optional learning: import an XML file into Excel**
 * Import the orders.xml file into Excel
   * Download the orders.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
   * Use Data > Get Data > From File > From XML to import into Excel
@@ -138,5 +136,4 @@ Paste link here
 ##### !end-placeholder
 
 ### !end-challenge
- 
  
