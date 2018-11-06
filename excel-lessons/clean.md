@@ -1,11 +1,8 @@
 # Data cleaning
 
-1 hrs
-<br>
-<br>
-Data can have a variety of issues that you want to correct. By cleaning the raw data, you can produce an more usable version of the data—one that you can analyse accurately. In this lesson, you learn how to eliminate several types of issues from data.
+Once data analysts import data, the next step is to make it useable for analysis. This requires data cleaning, which involves finding and then correcting or removing inaccuracies and inconsistencies in the data. That’s the topic of this lesson. (Common issues that require data cleaning include missing data, extra spaces, special characters, and inconsistent capitalization and naming conventions.)
 
-### Learning objectives
+## Learning objectives
 
 *By the end of this lesson, you will be able to:*
 * Communicate why it's important to clean the data
@@ -13,14 +10,14 @@ Data can have a variety of issues that you want to correct. By cleaning the raw 
 * Apply Excel functions to remove extraneous characters
 <br>
 
-## Pre-work
+## Prework
 * [Video: Data Analysis in Excel (9:58)](https://www.youtube.com/watch?v=YqS0x0yshlo&feature=youtu.be)
 * [Video: Formula Auditing Tricks in Excel (4:51)](https://www.youtube.com/watch?v=dCK_LG3Nk6Q&list=PLnVcHd3TXd2qNpfJyfQkwHO70gaZZ79L8&index=3_)
 * [Video: Cleaning up Data with TRIM, PROPER, and Text to Columns (13:49)](https://www.youtube.com/watch?v=x78JR7XHTro)
 * [Video: Data Cleaning in Excel (12:04)](https://www.youtube.com/watch?v=WRk9t5yo5Zs)
 * [Reading: Top Ten Ways to Clean Your Data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
 
-### Clean the data to improve the analysis
+## In-class work
 **Code along: remove extraneous characters - 15 min**
 * Use the [data_cleaning_demo.xlsx](https://drive.google.com/file/d/10PFvbBtuSEVSmt0RmyfuzMbAERBkVY42/view?usp=sharing) spreadsheet for this code along
 * Create a table in Excel to faciliate sorting
