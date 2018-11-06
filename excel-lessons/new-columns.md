@@ -1,11 +1,12 @@
 # Columns
 
-2 hrs
-<br>
-<br>
-Now that you know how to clean raw data and create an initial dataset, you can expand the information that you're able to get from data by creating new columns derived from existing columns. In this lesson, you apply Excel functions in folmulas to create new columns in a dataset.
+This lesson explores how to create new columns derived from existing columns. 
 
-### Learning objectives
+Imagine that you need to calculate your company’s net income (revenue minus expenses) by month. You have a table that includes one column that details the company’s monthly revenue and a second column that details the company’s monthly expenses. Good news: you can easily engineer a *new* column that calculates the difference between these two columns… and then populates the new column with that information.  
+
+Here’s a second example: imagine that you have a column that includes the city and the state of an event. The report that you’re working on requires information about only the state of each event. No problem; you can create a new column that extracts just the state into that new column. 
+
+## Learning objectives
 *By the end of this lesson, you will be able to:*
 * Engineer new columns from existing columns
 * Extract substrings from strings
@@ -13,14 +14,15 @@ Now that you know how to clean raw data and create an initial dataset, you can e
 <br>
 <br>
 
-## Pre-work:
+## Prework
 * [Video: Excel Formulas and Functions (4:04)](https://www.youtube.com/watch?v=moF8Zy9Fe7E)
 * [Video: How to Split Date and Time in Excel (3:15)](https://www.youtube.com/watch?v=-V2W8l8b4bA)
 * [Video: How to Convert Dates in Excel into Year, Month, or Day Using the Text Formula (3:48)](https://www.youtube.com/watch?v=yPkFF3eYVkQ)
 <br>
 
-### Extract substrings from existing columns to create new columns - 60 min                        
-**Code-along: extract leading and trailing substrings - 15 min**
+## In-class work                     
+
+### Code-along: extract leading and trailing substrings (15 min)
 * Use the da_ingredients.ingredients table and extract a spreadsheet showing the first 10,000 rows
 * Extract leading and trailing substrings using [LEFT](https://support.office.com/en-us/article/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c) and [RIGHT](https://support.office.com/en-us/article/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)
 * Extract substrings using position/length with the [MID](https://support.office.com/en-us/article/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028) function
@@ -34,7 +36,7 @@ Now that you know how to clean raw data and create an initial dataset, you can e
 
 ##### !question
 
-**Exercise: extract left, right, and middle parts of text - 15 min**
+**Exercise: extract left, right, and middle parts of text (15 min)**
 * Work in pairs
 * Use data extracted from the da_pronto.trip data
   * Prepare new columns with substrings extracted from other columns
@@ -53,7 +55,7 @@ Paste link here
 ### !end-challenge
 
 
-**Code-along: extract text parts from text cells - 15 min**
+### Code-along: extract text parts from text cells (15 min)
 * Use the da_ingredients.ingredients table and extract 10,000 rows spreadsheet
 * Use FIND to locate a character's position in a string
 * Use FIND with LEFT and RIGHT to extract to the left or right of any substring
@@ -62,7 +64,6 @@ Paste link here
     * =LEFT(A1,FIND(",",A1)-1)
 * Identify if the text contains a substring
   * [SEARCH](https://support.office.com/en-us/article/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)
-<br>
 
 ### !challenge
 
@@ -71,7 +72,7 @@ Paste link here
 * title: Extract part of a text cell based on substring match
 
 ##### !question
-**Exercise: extract text that is left or right of a substring pattern - 15 min**
+**Exercise: extract text that is left or right of a substring pattern (15 min)**
 * Work in pairs
 * * For this exercise, use the Pronto trip data you imported into Excel in the previous exercise
   * In a new column, use FIND with LEFT or RIGHT to extract the *numerical* part of the station_id
@@ -90,12 +91,11 @@ Paste link here
 
 ### !end-challenge
 
-**Code-along: create date part columns - 20 min**
+### Code-along: create date part columns (20 min)
 * Review documentation for Excel date functions
 * Export a sample of the Readychef event table and import into Excel
 * Create a month and year column
 * Create a quarter column
- <br>
 
 ### !challenge
 
@@ -105,7 +105,7 @@ Paste link here
 
 ##### !question
     
-**Exercise: Pronto bike share data - 40 min**
+**Exercise: Pronto bike share data (40 min)**
 * Work in pairs
 * Export a sample of 50,000 rows from the da_pronto.trip database table 
 * Create columns derived from existing columns 
