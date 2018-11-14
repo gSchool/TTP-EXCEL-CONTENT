@@ -42,10 +42,9 @@ It’s also useful to know that there are other tool like Excel available; Googl
 * [Microsoft Excel on Windows (00:30)](https://teamtreehouse.com/library/microsoft-excel-on-windows)
 
 ## Block lessons
-* [Load data from text files](../excel-lessons/import-text-files.md) - 1.25 hrs
-* [Clean the data](../excel-lessons/clean.md) - 1 hr
-* [Engineer new columns](../excel-lessons/new-columns.md) - 2 hrs
-* [Combine data using LOOKUPs](../excel-lessons/lookups.md) - 1.25 hrs
-* [Combine data using INDEX and MATCH](../excel-lessons/index-match.md) - 1.5 hrs
-* [Analyze data with pivot tables](../excel-lessons/basic-pivot-tables.md) - 2 hrs
-* [Analyze data with additional pivot table capabilities](../excel-lessons/more-pivot-tables.md) - 2.25 hrs
+* [Data importing](../excel-lessons/data-importing.md)
+* [Data cleaning](../excel-lessons/data-cleaning.md)
+* [Columns](../excel-lessons/columns.md)
+* [LOOKUP](../excel-lessons/lookups.md)
+* [INDEX and MATCH](../excel-lessons/index-match.md)
+* [Pivot tables](../excel-lessons/pivot-tables.md)
