@@ -42,9 +42,9 @@ It’s also useful to know that there are other tool like Excel available; Googl
 * [Microsoft Excel on Windows (00:30)](https://teamtreehouse.com/library/microsoft-excel-on-windows)
 
 ## Block lessons
-* [Data importing](../excel-lessons/data-importing.md)
-* [Data cleaning](../excel-lessons/data-cleaning.md)
-* [Columns](../excel-lessons/columns.md)
-* [LOOKUP](../excel-lessons/lookups.md)
-* [INDEX and MATCH](../excel-lessons/index-match.md)
-* [Pivot tables](../excel-lessons/pivot-tables.md)
+1. [Data importing](../excel-lessons/data-importing.md)
+2. [Data cleaning](../excel-lessons/data-cleaning.md)
+3. [Columns](../excel-lessons/columns.md)
+4. [LOOKUP](../excel-lessons/lookups.md)
+5. [INDEX and MATCH](../excel-lessons/index-match.md)
+6. [Pivot tables](../excel-lessons/pivot-tables.md)
