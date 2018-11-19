@@ -9,8 +9,6 @@ With VLOOKUP, the value that you look up must exist in the first *column* of the
 Though more limited, Excel lookups are similar to SQL joins. 
 </div>
 
-<br>
-
 ## Learning objectives
 *By the end of this lesson, you will be able to:*
 * Use VLOOKUP and HLOOKUP to fetch data from another table
