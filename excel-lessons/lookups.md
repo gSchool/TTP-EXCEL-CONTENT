@@ -1,20 +1,28 @@
 # LOOKUP
 
-1.25 hrs
-<br><br>
-In this lesson, you continue to prepare data by fetching and combining data from several spreadsheets into a worksheet.
+This lesson explores `VLOOKUP` and `HLOOKUP`, Excel functions that find and retrieve data from a specific column or row in a table. For example, if you have a list that contains products and the price of each product, you can search for the price of a *specific* product. (These are helpful functions with you’re working with large datasets.)
 
-### Learning objectives
+With VLOOKUP, the value that you look up must exist in the first *column* of the table, with the value being returned existing in an adjacent column. With HLOOKUP, the value that you look up must exist in the first *row* of the table, with the value being returned existing in an adjacent row. (The “V” in `VLOOKUP` stands for “vertical”, and the “H” in `HLOOKUP` stands for “horizontal.”) VLOOKUP is more common, since most databases are organized vertically. 
+
+<div class='bg-info' style='padding:8px;border-style:solid;border-width:2px;border-color:#00BFFF'>
+<strong>Aside:</strong><br>
+Though more limited, Excel lookups are similar to SQL joins. 
+</div>
+
+<br>
+
+## Learning objectives
 *By the end of this lesson, you will be able to:*
 * Use VLOOKUP and HLOOKUP to fetch data from another table
 * Apply parameters to alter the LOOKUP
-<br>
  
-## Pre-work
+## Prework
 * [Introducing LOOKUP Functions (00:30)](https://teamtreehouse.com/library/introducing-lookup-functions)
 * [Using VLOOKUP to Search in a Column (00:30)](https://teamtreehouse.com/library/using-vlookup-to-search-in-a-column)
 * [Using HLOOKUP to Search in a Row (00:30)](https://teamtreehouse.com/library/using-hlookup-to-search-in-a-row)
 * [LOOKUP Tips and Common Errors (00:30)](https://teamtreehouse.com/library/lookup-tips-and-common-errors)
+
+## In-class work
 
 ### Combine data from different sources using LOOKUPs
 **Overview of the VLOOKUP function - 10 min**
@@ -24,7 +32,7 @@ In this lesson, you continue to prepare data by fetching and combining data from
   * Note limitations such as LOOKUPs returning only the first match of the external table  
 <br>
 
-**Code-along: use VLOOKUP to fetch data from other tables - 15 min**
+### Code-along: use VLOOKUP to fetch data from other tables - 15 min**
 * Use the three "sales" CSV files [purchases.csv](https://drive.google.com/file/d/1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW/view?usp=sharing), [customers.csv](https://drive.google.com/file/d/1_69gMSjnx7owplIVzKu1SGdNLdNmXGez/view?usp=sharing), and [products_horz.csv](https://drive.google.com/file/d/1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney/view?usp=sharing)
 * Use VLOOKUP to add the customer name and city from the customer table to each row of the purchases table
 * Danger! You must use absolute references; otherwise the table_range moves when you copy the VLOOKUP formula to another cell
@@ -56,13 +64,13 @@ In this lesson, you continue to prepare data by fetching and combining data from
 
 ##### !placeholder
 
-Paste link here
+Paste link here:
 
 ##### !end-placeholder
 
 ### !end-challenge
 
-**Code-along: use HLOOKUP to fetch data from another table - 10 min**
+**Code-along: use `HLOOKUP` to fetch data from another table (10 min)**
 * Continue using the spreadsheet from the previous code-along
 * Import the [products_horz.csv](https://drive.google.com/open?id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney) file into a new tab
 * Use HLOOKUPs to add the product name and price to each record in the purchases table
@@ -75,7 +83,7 @@ Paste link here
 
 ##### !question
 
-**Exercise: use LOOKUPs to fetch data from other tables - 25 min**
+**Exercise: use LOOKUPs to fetch data from other tables (25 min)**
 * Work in pairs
 * Continue using the spreadsheet that you created in the last challenge
 * Refer to the [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing) to determine connections between the tables
@@ -90,7 +98,7 @@ Paste link here
 
 ##### !placeholder
 
-Paste link here
+Paste link here:
 
 ##### !end-placeholder
 
