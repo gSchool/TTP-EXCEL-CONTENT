@@ -10,7 +10,7 @@ The lessons *LOOKUP* and *INDEX and MATCH* explore Excel functions that are simi
 
 This lesson covers `INDEX` and `MATCH`, which together accomplish the same function as `VLOOKUP`. 
 
-The syntax for `INDEX` and `MATCH` is more complicated to write, but it’s often worth the effort when working with larger tables (greater than 50,000 rows) or spreadsheets that contain a lot of interdependent logic since `INDEX` and `MATCH` requires less computation and, therefore, performs faster. 
+The syntax for `INDEX` and `MATCH` is more complicated to write, but it’s often worth the effort when working with larger tables (greater than 50,000 rows), or spreadsheets that contain a lot of interdependent logic, since `INDEX` and `MATCH` requires less computation and, therefore, performs faster. 
 
 ## Learning objectives
 *By the end of this lesson, you will be able to:*
