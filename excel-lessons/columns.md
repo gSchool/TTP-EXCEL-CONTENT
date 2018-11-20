@@ -2,7 +2,7 @@
 
 This lesson explores how to create new columns derived from existing columns. 
 
-Imagine that you need to calculate your company’s net income (revenue minus expenses) by month. You have a table that includes one column that details the company’s monthly revenue and a second column that details the company’s monthly expenses. Good news: you can easily engineer a *new* column that calculates the difference between these two columns and populates the new column with this information.  
+Imagine that you need to calculate your company’s net income (revenue minus expenses) by month. You have a table that includes one column that details the company’s monthly revenue and a second column that details the company’s monthly expenses. Good news: you can easily engineer a *new* column that calculates the difference between these two columns… and then populates the new column with that information.  
 
 Here’s a second example: imagine that you have a column that includes the city and the state of an event. The report that you’re working on requires information about only the state of each event. No problem; you can create a new column that extracts just the state into that new column. 
 
@@ -23,7 +23,19 @@ Here’s a second example: imagine that you have a column that includes the city
 ## In-class work                     
 
 ### Code-along: extract leading and trailing substrings (15 min)
-* Use the da_ingredients.ingredients table and extract a spreadsheet showing the first 10,000 rows
+* In this code-along we will create new columns with data extracted from other Excel columns.
+
+Instuctions
+
+1. Use a SQL query to retrieve 10,000 random rows from the da_ingredients.ingredients table in our on-line database.
+
+    ```SQL
+    
+    ```
+
+2. Export the retrieved data from pgAdmin into a csv file using the download button in the SQL editor pane.
+    * Note if you need to change the delimiter settings you can do that in the pgAdmin File-> Preferences-> Query Tool-> CSV Output settings
+* and extract a spreadsheet showing the first 10,000 rows
 * Extract leading and trailing substrings using [LEFT](https://support.office.com/en-us/article/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c) and [RIGHT](https://support.office.com/en-us/article/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)
 * Extract substrings using position/length with the [MID](https://support.office.com/en-us/article/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028) function
 <br>
@@ -57,6 +69,8 @@ Paste link here
 
 ### Code-along: extract text parts from text cells (15 min)
 * Use the da_ingredients.ingredients table and extract 10,000 rows spreadsheet
+
+
 * Use FIND to locate a character's position in a string
 * Use FIND with LEFT and RIGHT to extract to the left or right of any substring
   * Extract before or after the character
