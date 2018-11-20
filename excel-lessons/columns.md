@@ -30,13 +30,15 @@ Instuctions
 1. Use a SQL query to retrieve 10,000 random rows from the da_ingredients.ingredients table in our on-line database.
 
     ```SQL
-    
+    SELECT *
+    FROM da_ingredients.ingredients
+    ORDER BY RANDOM()
+    LIMIT 10000
     ```
-
 2. Export the retrieved data from pgAdmin into a csv file using the download button in the SQL editor pane.
     * Note if you need to change the delimiter settings you can do that in the pgAdmin File-> Preferences-> Query Tool-> CSV Output settings
-* and extract a spreadsheet showing the first 10,000 rows
-* Extract leading and trailing substrings using [LEFT](https://support.office.com/en-us/article/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c) and [RIGHT](https://support.office.com/en-us/article/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)
+3. Open a new workbook in Excel and import the data into Excel using Data -> From Text
+4. Extract leading and trailing substrings using [LEFT](https://support.office.com/en-us/article/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c) and [RIGHT](https://support.office.com/en-us/article/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)
 * Extract substrings using position/length with the [MID](https://support.office.com/en-us/article/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028) function
 <br>
 
