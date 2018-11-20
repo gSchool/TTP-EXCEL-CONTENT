@@ -1,13 +1,16 @@
 # LOOKUP
 
-This lesson explores `VLOOKUP` and `HLOOKUP`, Excel functions that find and retrieve data from a specific column or row in a table. For example, if you have a list that contains products and the price of each product, you can search for the price of a *specific* product. (These are helpful functions with you’re working with large datasets.)
-
-With VLOOKUP, the value that you look up must exist in the first *column* of the table, with the value being returned existing in an adjacent column. With HLOOKUP, the value that you look up must exist in the first *row* of the table, with the value being returned existing in an adjacent row. (The “V” in `VLOOKUP` stands for “vertical”, and the “H” in `HLOOKUP` stands for “horizontal.”) VLOOKUP is more common, since most databases are organized vertically. 
-
 <div class='bg-info' style='padding:8px;border-style:solid;border-width:2px;border-color:#00BFFF'>
 <strong>Aside:</strong><br>
-Though more limited, Excel lookups are similar to SQL joins. 
+
+The lessons *LOOKUP* and *INDEX and MATCH* explore Excel functions that are similar to SQL joins in that they allow you to combine data from multiple tables. Since data analysts often work with both Excel and SQL, it’s important to know how to combine data from multiple tables in both platforms.
 </div>
+
+<br>
+
+This lesson covers `VLOOKUP` and `HLOOKUP`, Excel functions that find and retrieve data from a specific column or row in a table. For example, if you have a list that contains products and the price of each product, you can search for the price of a *specific* product. 
+
+With VLOOKUP, the value that you look up must exist in the first *column* of the table, with the value being returned existing in an adjacent column. With HLOOKUP, the value that you look up must exist in the first *row* of the table, with the value being returned existing in an adjacent row. (The “V” in `VLOOKUP` stands for “vertical”, and the “H” in `HLOOKUP` stands for “horizontal.”) VLOOKUP is more common, since most databases are organized vertically. 
 
 ## Learning objectives
 *By the end of this lesson, you will be able to:*
