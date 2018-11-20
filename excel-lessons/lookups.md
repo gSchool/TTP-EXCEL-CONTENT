@@ -10,7 +10,7 @@ The lessons *LOOKUP* and *INDEX and MATCH* explore Excel functions that are simi
 
 This lesson covers `VLOOKUP` and `HLOOKUP`, Excel functions that find and retrieve data from a specific column or row in a table. For example, if you have a list that contains products and the price of each product, you can search for the price of a *specific* product. 
 
-With VLOOKUP, the value that you look up must exist in the first *column* of the table, with the value being returned existing in an adjacent column. With HLOOKUP, the value that you look up must exist in the first *row* of the table, with the value being returned existing in an adjacent row. (The “V” in `VLOOKUP` stands for “vertical”, and the “H” in `HLOOKUP` stands for “horizontal.”) VLOOKUP is more common, since most databases are organized vertically. 
+With VLOOKUP, the value that you look up must exist in the first *column* of the table, with the value being returned existing in an adjacent column. With HLOOKUP, the value that you look up must exist in the first *row* of the table, with the value being returned existing in an adjacent row. (The “V” in `VLOOKUP` stands for “vertical”, and the “H” in `HLOOKUP` stands for “horizontal.”) VLOOKUP is more common, since most tables are organized vertically. 
 
 ## Learning objectives
 *By the end of this lesson, you will be able to:*
