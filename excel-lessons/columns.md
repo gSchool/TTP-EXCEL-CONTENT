@@ -2,7 +2,7 @@
 
 This lesson explores how to create new columns derived from existing columns. 
 
-Imagine that you need to calculate your company’s net income (revenue minus expenses) by month. You have a table that includes one column that details the company’s monthly revenue and a second column that details the company’s monthly expenses. Good news: you can easily engineer a *new* column that calculates the difference between these two columns… and then populates the new column with that information.  
+Imagine that you need to calculate your company’s net income (revenue minus expenses) by month. You have a table that includes one column that details the company’s monthly revenue and a second column that details the company’s monthly expenses. Good news: you can easily engineer a *new* column that calculates the difference between these two columns and populates the new column with this information.  
 
 Here’s a second example: imagine that you have a column that includes the city and the state of an event. The report that you’re working on requires information about only the state of each event. No problem; you can create a new column that extracts just the state into that new column. 
 
