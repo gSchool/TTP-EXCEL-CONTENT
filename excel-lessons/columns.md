@@ -24,23 +24,40 @@ Here’s a second example: imagine that you have a column that includes the city
 
 ### Code-along: extract leading and trailing substrings (15 min)
 * In this code-along we will create new columns with data extracted from other Excel columns.
+* Use data from the da_airbnb schema for this code-along table
 
 Instuctions
 
-1. Use a SQL query to retrieve 10,000 random rows from the da_ingredients.ingredients table in our on-line database.
+1. Use a SQL query to retrieve 10,000 random rows from the da_airbnb.listings table in our on-line database.
 
     ```SQL
-    SELECT *
-    FROM da_ingredients.ingredients
+    SELECT id, listing_url, host_location
+    FROM da_airbnb.listings
     ORDER BY RANDOM()
-    LIMIT 10000
+    LIMIT 250
     ```
 2. Export the retrieved data from pgAdmin into a csv file using the download button in the SQL editor pane.
     * Note if you need to change the delimiter settings you can do that in the pgAdmin File-> Preferences-> Query Tool-> CSV Output settings
 3. Open a new workbook in Excel and import the data into Excel using Data -> From Text
-4. Extract leading and trailing substrings using [LEFT](https://support.office.com/en-us/article/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c) and [RIGHT](https://support.office.com/en-us/article/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f)
-* Extract substrings using position/length with the [MID](https://support.office.com/en-us/article/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028) function
-<br>
+4. Extract leading and substrings using [LEFT](https://support.office.com/en-us/article/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c) to extract the "https://" part of the strings in the url_listing column into a new column
+
+    ```
+    =LEFT(B2, 8)
+    ```
+    
+5. Extract trailing substrings from the host location using [RIGHT](https://support.office.com/en-us/article/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f) 
+
+   *   Looking at the documentation we need to provide the and the starting location counted from the end of the string.  We will use the LEN() function so that we can use the length of the text in oru calculation of the substring starting postion.
+   
+    ```
+    =RIGHT(B2, LEN(B2)-8)
+    ```
+
+7. Extract substrings using position/length with the [MID](https://support.office.com/en-us/article/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028) function
+
+    ```
+    =MID(B2,9,14)
+    ```
 
 ### !challenge
 
@@ -70,7 +87,10 @@ Paste link here
 
 
 ### Code-along: extract text parts from text cells (15 min)
-* Use the da_ingredients.ingredients table and extract 10,000 rows spreadsheet
+In this code along you will create new columns that contain text extracted from existing columns
+* Use the da_pronto trip data for this code along
+
+table and extract 10,000 rows spreadsheet
 
 
 * Use FIND to locate a character's position in a string
