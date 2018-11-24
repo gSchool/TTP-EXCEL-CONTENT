@@ -160,7 +160,7 @@ In this code-along you will import an XML data file into Exceldata into Excel.
 3. Examine results of the date import into Excel to confirm the data loaded correctly
 
 ## Solutions
-Example solutions to the exercises in this lesson above are available in [this spreadssheet](https://drive.google.com/uc?export=download&id=1JKcyAntKu4jzQHzJtgkmq1hXyb6QfFFJ). These are intended for use after the exercises are completed.
+Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=1JKcyAntKu4jzQHzJtgkmq1hXyb6QfFFJ). These are intended for use after the exercises are completed.
  
 <!--
 ### !challenge
