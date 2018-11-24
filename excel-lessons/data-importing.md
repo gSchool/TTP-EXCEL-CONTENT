@@ -42,9 +42,13 @@ Compare and contrast these data text files and their formats
   * XML
 
 ### Code-along: import CSV files delimited with various delimiters - 15 min**
-  * Although many people use the names synonymously, there are differences between CSV and simpler delimited files
- 
- 
+
+**Notes:**
+
+Although many people use the names synonymously, there are differences between CSV and simpler delimited files
+
+**Instructions:**
+
 1. Download these files for use in this code along
     * [products.csv](https://s3-us-west-2.amazonaws.com/learn-assets.galvanize.com/gSchool/ds-curriculum/precourse/products.csv)
     * [purchases.txt](https://s3-us-west-2.amazonaws.com/learn-assets.galvanize.com/gSchool/ds-curriculum/precourse/purchases.txt)
@@ -53,7 +57,6 @@ Compare and contrast these data text files and their formats
 3. In a file manager such as Finder (Mac) or Explorer (Windows) clicking on the purchases.txt file to import it
     * Note that the data didn't import into Excel successfully.   As analyts we can not depend on the "click the file in a file manager" way of importing data
         * Rather,  our habit for importing delimited files should be to import delimited files using Excel's Data > From Text functionality
-
 4. View the purchases.txt file in a text editor such as Notepad (Windows), TextEdit (Mac) or a text editor with more functionality such as Atom or Sublime
 4. Import purchase.txt using Excel's Data > From Text
       * Chose settings in the From Text dialog box to import the data successfully from the file
