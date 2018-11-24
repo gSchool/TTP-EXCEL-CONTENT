@@ -27,7 +27,7 @@ Search and find descriptions and documentation for these three data text files. 
 Compare and contrast these data text files and their formats
   * CSV and other delimited files - Rows and column data text files
   * JSON
-      We will work with JSON in much more depth in Tablea part 2 when we retieve data from APIs 
+      We will work with JSON in much more depth in Tablea part 2 when we retrieve data from APIs 
   * XML
 
 ### Code-along: import CSV files delimited with various delimiters - 15 min
@@ -156,18 +156,11 @@ In this code-along you will import an XML data file into Exceldata into Excel.
 **Instructions:**
 
 1. Download the orders.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
-2. Use Data > Get Data > From File > From XML to import into Excel
-    * Note - Depending on which version of Excel you have the menu navigation may be different
+2. Use Data > From Other Sources > From File > From XML Data Import to import the parts data into an Excel tab
 3. Examine results of the date import into Excel to confirm the data loaded correctly
 
 ## Solutions
-Example solutions to the exercises in this lesson above are available in [this spreadssheet](https://docs.google.com/document/d/1VamxWpncE4IEbuRrVEIrCx2S3PcwzDl_Z9A3cJXq5zk/edit?usp=sharing). These are intended for use after the exercises are completed.
-
-
-
-
-
-
+Example solutions to the exercises in this lesson above are available in [this spreadssheet](https://drive.google.com/uc?export=download&id=1JKcyAntKu4jzQHzJtgkmq1hXyb6QfFFJ). These are intended for use after the exercises are completed.
  
 <!--
 ### !challenge
@@ -179,10 +172,10 @@ Example solutions to the exercises in this lesson above are available in [this s
 ##### !question
 
 ### Optional learning: import an XML file into Excel**
-* Import the orders.xml file into Excel
-  * Download the orders.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
+* Import the part.xml file into Excel
+  * Download the part.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
   * Use Data > Get Data > From File > From XML to import into Excel
-    * Note - Depending on which version of Excel you have the menu navigation may be different  
+    * Note - Depending on which version of Excel you have the menu navigation may be different 
 
 ##### !end-question
 
