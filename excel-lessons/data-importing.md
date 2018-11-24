@@ -78,7 +78,7 @@ In this exercise you will import several delimited text data files into Excel
 * Download these Pronto files for use with Excel:
   * [2015_trip_data.csv](https://drive.google.com/uc?export=download&id=1O56RgQLiOM86uH1rUizypgfzR8h1lYKI/view?usp=sharing)
   * [station.csv](https://drive.google.com/uc?export=download&id=1pozO2ne6Q8SJJ0olimZqg_-xUUq08V09/view?usp=sharing)
-  * [weather.csv]https://drive.google.com/uc?export=download&id=1_M91l3njt9PIPurfIKz_sCVnzfwEenDy/view?usp=sharing)
+  * [weather.csv](https://drive.google.com/uc?export=download&id=1_M91l3njt9PIPurfIKz_sCVnzfwEenDy/view?usp=sharing)
 * Import the 2015_trip_data.csv file into a tab (worksheet) in Excel
 * Import the station.csv file into a tab in Excel
 * Import the weather.csv file into a tab in Excel
