@@ -1,4 +1,4 @@
-# Data importing
+# Importing Data
 
 At work, data analysts encounter multiple formats of data text files (computer files that only contain numbers and text with no special formatting), which are used to transfer data between databases and analytics tools. Each format of text file has different advantages and disadvantages—for example, some are more human-readable, others are more compatible with the outputs of modern web design—and it’s important to know how to adapt to each. 
 
@@ -98,7 +98,7 @@ In this code-along we will import data from a text data file that sas data encod
 
 **Notes:**
 
-In this lesson will not go into detail on the JSON file format.  However we will examine the JSON file encoding in more depth in the Tableau part 2 Retrieve data with APIs lesson.
+In this lesson we will not go detail of the JSON file format.  However, we will examine the JSON file encoding in more depth in the Tableau part 2 Retrieve data with APIs lesson.  For now let's focus on importing data from JSON files
 
 We will convert JSON files into CSV files using an online converter.  There are also converters for your laptop that you can use for very large data files or files with information that should bot be shared publically.
 
@@ -120,10 +120,22 @@ We will convert JSON files into CSV files using an online converter.  There are 
 
 ##### !question
 **Exercise: Import a JSON file into Excel - 15 min**
-* Work in pairs
-* Import the [cars.json data](https://think.cs.vt.edu/corgis/json/cars/cars.html) using a downloaded file
-* In an Excel worksheet tab, import the cars.json data using the URL of the file location on the web
-* Submit a link to the spreadsheet
+
+**Notes:**
+
+In this lesson you will import the [cars.json data](https://think.cs.vt.edu/corgis/json/cars/cars.html) data into Excel. 
+
+**Instructions:**
+
+1. Work in pairs
+2. Download the [cars.json data](https://think.cs.vt.edu/corgis/json/cars/cars.html) JSON file
+3. Convert it to a CSV or other delimited file
+4  Load data from the resulting CSV or delimited file into an Excel worksheet tab
+5. Optional learning
+    * Open another tab in Excel
+    * Use an online converter to convert to the JSON data to a CSV file but this time retrieve the cars.json file directly from its web  URL rather than downloading the file first.
+        * Hint: look for the option to retieve from the web in the converters options
+* Submit a link to the spreadsheet location in github
 
 ##### !end-question
 
