@@ -147,7 +147,29 @@ Paste link here
 
 ### !end-challenge
 
+### Code-along: *optional* extra learning - Import an XML data file
 
+**Notes:**
+
+In this code-along you will import an XML data file into Exceldata into Excel. 
+
+**Instructions:**
+
+1. Download the orders.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
+2. Use Data > Get Data > From File > From XML to import into Excel
+    * Note - Depending on which version of Excel you have the menu navigation may be different
+3. Examine results of the date import into Excel to confirm the data loaded correctly
+
+## Solutions
+Example solutions to the exercises in this lesson above are available in [this spreadssheet](https://docs.google.com/document/d/1VamxWpncE4IEbuRrVEIrCx2S3PcwzDl_Z9A3cJXq5zk/edit?usp=sharing). These are intended for use after the exercises are completed.
+
+
+
+
+
+
+ 
+<!--
 ### !challenge
 
 * type: paragraph
@@ -171,8 +193,6 @@ Paste link here
 ##### !end-placeholder
 
 ### !end-challenge
- 
-<!--
 * Download and install Microsoft's [Power Query for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=39379&CorrelationId=ceb0208b-85a3-444c-acfe-b09fffa6498d) add-on. You use this add-on to import additional data filetypes into Excel.
   * For the add-on to become active in Excel, you must activate a setting in Excel. You will do that in class, but if you want to activate it in Excel beforehand to play with it, you can:
     * Open Excel
