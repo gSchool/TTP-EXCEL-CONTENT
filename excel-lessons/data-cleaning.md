@@ -18,7 +18,14 @@ Once data analysts import data, the next step is to make it useable for analysis
 * [Reading: Top Ten Ways to Clean Your Data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
 
 ## In-class work
-**Code along: remove extraneous characters - 15 min**
+
+### Discuss data cleaning - 5 min
+
+* Cleaning the data is an important step because if the data has flaws it may be unusable as our analysis will be invalid or we may not be able to load the data at all
+* Often the data in a database has already been cleaned enough to work with immediately. However we often are not so lucky with data from other sources 
+* Obtaining and cleaning data for an anlysis can often take 50-80% of an analyst's time so make sure you allocate time for this step of analysis 
+
+### Code along: remove extraneous characters - 15 min
 * Use the [data_cleaning_demo.xlsx](https://drive.google.com/file/d/10PFvbBtuSEVSmt0RmyfuzMbAERBkVY42/view?usp=sharing) spreadsheet for this code along
 * Create a table in Excel to faciliate sorting
 * Fill in the blank cells in a category column
