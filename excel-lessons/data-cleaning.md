@@ -32,7 +32,7 @@ Once data analysts import data, the next step is to make it useable for analysis
 4. In the month column fill in the blank cells with the month value
   * ```Home > Find & Select > Go To Special```.   A Go To Special dialog box appears. Select the "Blanks" option
   * Enter a formula that copies the previous cell in the column. For example, "=B2" in cell B3
-  * hit Ctrl-Enter to copy the formula to all the blank cells
+  * hit *Ctrl-Enter* to copy the formula to all the blank cells
 * Create a new column with a formula that [TRIM](https://support.office.com/en-us/article/trim-function-410388fa-c5df-49c6-b16c-9e5630b479f9)s the values in the previous column
 * Create a new column with a formula that [CLEAN](https://support.office.com/en-us/article/clean-function-26f3d7c5-475f-4a9c-90e5-4b8ba987ba41)s the values in the previous column
 * Create a new column with a formula that [LOWER cases](https://support.office.com/en-us/article/lower-function-3f21df02-a80c-44b2-afaf-81358f9fdeb4) the values in the previous column
@@ -69,12 +69,15 @@ Paste link here
 
 ### !end-challenge
 
-**Exercise: correct data issues in several columns - 30 min**
-* Work individually to discover a data cleaning function that you want to share with the class - 10 min
-  * For ideas, refer to the post [Top ten ways to clean your data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
-  * From web searches, find the best description and examples for using that function
+### Exercise: correct data issues in several columns - 30 min**
+1. Work individually to discover a data cleaning function that you want to share with the class - 10 min
+2. For ideas, refer to the post [Top ten ways to clean your data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
+3. From web searches, find the best description and examples for using that function
   * Share your link in the class Slack channel
-* Share your findings with your classmates - 20 min
-<br>
+4. Share your findings with your classmates - 20 min
+
+
+## Solutions
+Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=1Os_abCcMTexWZ8TRA-Nwqu1HkTnoqtod). These are intended for use after the exercises are completed.
 
 ### Resources
