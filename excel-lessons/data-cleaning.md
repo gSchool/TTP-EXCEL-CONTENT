@@ -69,7 +69,7 @@ Paste link here
 
 ### !end-challenge
 
-### Class exercise: Discover other techniques to clean tour data - 25 min**
+### Class exercise: Discover other techniques to clean tour data - 25 min
 1. Work individually to discover a data cleaning function that you want to share with the class - 10 min
 2. For ideas, refer to the post [Top ten ways to clean your data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
 3. From web searches, find the best description and examples for using that function
