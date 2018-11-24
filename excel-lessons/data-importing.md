@@ -15,17 +15,6 @@ This lesson teaches you how to work with the most common types of data text file
 * If you don't have a version of Excel 2013 or newer on your laptop, install a recent version of Excel. This typically requires purchasing and installing Microsoft Office—at least the Excel portion.
   * Ensure that you're installing the laptop version and not the Office 356 version (cloud only)
   * The Home and Student version of Microsoft Office is sufficent
-
-<!--
-* Download and install Microsoft's [Power Query for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=39379&CorrelationId=ceb0208b-85a3-444c-acfe-b09fffa6498d) add-on. You use this add-on to import additional data filetypes into Excel.
-  * For the add-on to become active in Excel, you must activate a setting in Excel. You will do that in class, but if you want to activate it in Excel beforehand to play with it, you can:
-    * Open Excel
-    * Click File > Options > Add-Ins
-    * When the dialog box opens, click on the "Manage" dropdown near the bottom of the dialog, select "COM Add-ins" and click Go
-    * In the COM Add-ins dialog click "Microsoft Power Query for Excel"
-    *  You should now see "Power Query" as one of the choices in the Excel menu bar
--->
-
 * [Video: Adding Data to a Spreadsheet (2:18)](https://teamtreehouse.com/library/adding-data-to-a-spreadsheet)
 * [Reading: CSV vs XML vs JSON – Which is the Best Response Data Format?](https://applerepairstation.co.uk/csv-vs-xml-vs-json-which-is-the-best-response-data-format/)
 
@@ -74,7 +63,7 @@ Although many people use the names synonymously, there are differences between C
 **Notes:**
 
 * In this exercise you will import several delimited text data files into Excel.
-* Make sure you import dates in thr CSV files as dates in Excel rather than be imported to text fields in  
+* Make sure you import dates as dates in Excel rather than be imported into Excel text fields 
 
 **Instructions:**
 
@@ -102,19 +91,26 @@ Paste link here
 ### !end-challenge
 
 ### Code-along: import data into a JSON file - 15 min**
-* ["Microsoft Power Query for Excel"](https://support.office.com/en-us/article/connect-to-a-json-file-f65207ab-d957-4bf0-bec3-a08bb53cd4c0#ID0EAACAAA=Newer_versions)
-  * Note that the page contains a selection tab to select use instructions from Excel 2013 and earlier or recent versions of Excel
-* Download the [heath.json](https://drive.google.com/file/d/1lsMQQzdcIHJjE6W-NfC4VMxBAUxBE5mx/view?usp=sharing) file of disease volume by US state
- * Import the JSON file into Excel from the web
-   * Click on the Excel Power Query tab and then "From Web"
-   * Cut/Paste this URL in the URL box: '''https://think.cs.vt.edu/corgis/json/health/health.json'''
-     * Dataset description](https://think.cs.vt.edu/corgis/json/health/health.html)
-   * In the dialog, enter the path and filename of the JSON file
-   * Click OK
-   * When the list of records appears in the editor, click transform -> to table
-   * Click to expand the columns and review the column names
-   * Click on Save and Load to exit and populate the Excel worksheet with the data
- * Show that to read in a JSON file that local on your laptop you use exactly the same steps but with the path and filename as the URL
+
+
+In this code-along we will import data from a text data file that sas data encoded in the JSON format
+
+
+**Notes:**
+
+In this lesson will not go into detail on the JSON file format.  However we will examine the JSON file encoding in more depth in the Tableau part 2 Retrieve data with APIs lesson.
+
+We will convert JSON files into CSV files using an online converter.  There are also converters for your laptop that you can use for very large data files or files with information that should bot be shared publically.
+
+**Instructions:**
+
+1. Download the [heath.json](https://drive.google.com/uc?export=download&id=1lsMQQzdcIHJjE6W-NfC4VMxBAUxBE5mx) file of disease instances by US state
+2. Examine the JSON file in a text editor and note that it is quite different from a delimited file in format.
+3. Use an online JSON to CSV converter such as [this one](http://www.convertcsv.com/json-to-csv.htm) to convert the file.
+    * Discuss the setting available
+4. Download the resulting CSV file.
+5. Import the data into Excel.
+6. Examine the results to determine if the file conversion and import was successfull 
 
 ### !challenge
 
@@ -152,7 +148,7 @@ Paste link here
 * Import the orders.xml file into Excel
   * Download the orders.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
   * Use Data > Get Data > From File > From XML to import into Excel
-    * Note - Depending on which version of excel you have the menu navigation may be different  
+    * Note - Depending on which version of Excel you have the menu navigation may be different  
 
 ##### !end-question
 
@@ -164,3 +160,27 @@ Paste link here
 
 ### !end-challenge
  
+<!--
+* Download and install Microsoft's [Power Query for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=39379&CorrelationId=ceb0208b-85a3-444c-acfe-b09fffa6498d) add-on. You use this add-on to import additional data filetypes into Excel.
+  * For the add-on to become active in Excel, you must activate a setting in Excel. You will do that in class, but if you want to activate it in Excel beforehand to play with it, you can:
+    * Open Excel
+    * Click File > Options > Add-Ins
+    * When the dialog box opens, click on the "Manage" dropdown near the bottom of the dialog, select "COM Add-ins" and click Go
+    * In the COM Add-ins dialog click "Microsoft Power Query for Excel"
+    *  You should now see "Power Query" as one of the choices in the Excel menu bar
+
+
+* ["Microsoft Power Query for Excel"](https://support.office.com/en-us/article/connect-to-a-json-file-f65207ab-d957-4bf0-bec3-a08bb53cd4c0#ID0EAACAAA=Newer_versions)
+  * Note that the page contains a selection tab to select use instructions from Excel 2013 and earlier or recent versions of Excel
+* Download the [heath.json](https://drive.google.com/file/d/1lsMQQzdcIHJjE6W-NfC4VMxBAUxBE5mx/view?usp=sharing) file of disease volume by US state
+ * Import the JSON file into Excel from the web
+   * Click on the Excel Power Query tab and then "From Web"
+   * Cut/Paste this URL in the URL box: '''https://think.cs.vt.edu/corgis/json/health/health.json'''
+     * Dataset description](https://think.cs.vt.edu/corgis/json/health/health.html)
+   * In the dialog, enter the path and filename of the JSON file
+   * Click OK
+   * When the list of records appears in the editor, click transform -> to table
+   * Click to expand the columns and review the column names
+   * Click on Save and Load to exit and populate the Excel worksheet with the data
+ * Show that to read in a JSON file that local on your laptop you use exactly the same steps but with the path and filename as the URL
+ -->
