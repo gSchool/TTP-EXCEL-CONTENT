@@ -71,18 +71,25 @@ Although many people use the names synonymously, there are differences between C
 
 ### Exercise: import files with different delimiters - 15 min**
 
-In this exercise you will import several delimited text data files into Excel
+**Notes:**
 
-* Work in pairs
-* Import a new file using Data > From Text
-* Download these Pronto files for use with Excel:
-  * [2015_trip_data.csv](https://drive.google.com/uc?export=download&id=1O56RgQLiOM86uH1rUizypgfzR8h1lYKI)
-  * [station.csv](https://drive.google.com/uc?export=download&id=1pozO2ne6Q8SJJ0olimZqg_-xUUq08V09)
-  * [weather.csv](https://drive.google.com/uc?export=download&id=1_M91l3njt9PIPurfIKz_sCVnzfwEenDy)
-* Import the 2015_trip_data.csv file into a tab (worksheet) in Excel
-* Import the station.csv file into a tab in Excel
-* Import the weather.csv file into a tab in Excel
-* Submit a GitHub link to the spreadsheet
+* In this exercise you will import several delimited text data files into Excel.
+* Make sure you import dates in thr CSV files as dates in Excel rather than be imported to text fields in  
+
+**Instructions:**
+
+In this exercise you will import several delimited text data files into Excel.
+
+1. Work in pairs
+2. Import a new file using Data > From Text
+3. Download these Pronto files for use with Excel:
+    * [2015_trip_data.csv](https://drive.google.com/uc?export=download&id=1O56RgQLiOM86uH1rUizypgfzR8h1lYKI)
+    * [station.csv](https://drive.google.com/uc?export=download&id=1pozO2ne6Q8SJJ0olimZqg_-xUUq08V09)
+    * [weather.csv](https://drive.google.com/uc?export=download&id=1_M91l3njt9PIPurfIKz_sCVnzfwEenDy)
+4. Import the 2015_trip_data.csv file into a tab (worksheet) in Excel
+5. Import the station.csv file into a tab in Excel
+6. Import the weather.csv file into a tab in Excel
+7. Submit a GitHub link to the spreadsheet
 
 ##### !end-question
 
