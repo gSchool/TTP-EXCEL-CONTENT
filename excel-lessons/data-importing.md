@@ -20,7 +20,7 @@ This lesson teaches you how to work with the most common types of data text file
 
 ## In-class work
 
-### Discuss three types of text file formats for storing data - 15 min**
+### Discuss three types of text file formats for storing data - 15 min
 
 Search and find descriptions and documentation for these three data text files.  They all are file types that store data as text.
 
@@ -30,7 +30,7 @@ Compare and contrast these data text files and their formats
       We will work with JSON in much more depth in Tablea part 2 when we retieve data from APIs 
   * XML
 
-### Code-along: import CSV files delimited with various delimiters - 15 min**
+### Code-along: import CSV files delimited with various delimiters - 15 min
 
 **Notes:**
 
@@ -58,7 +58,7 @@ Although many people use the names synonymously, there are differences between C
 
 ##### !question
 
-### Exercise: import files with different delimiters - 15 min**
+### Exercise: import files with different delimiters - 15 min
 
 **Notes:**
 
@@ -90,7 +90,7 @@ Paste link here
 
 ### !end-challenge
 
-### Code-along: import data into a JSON file - 15 min**
+### Code-along: import data into a JSON file - 15 min
 
 
 In this code-along we will import data from a text data file that sas data encoded in the JSON format
