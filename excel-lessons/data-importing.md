@@ -15,6 +15,8 @@ This lesson teaches you how to work with the most common types of data text file
 * If you don't have a version of Excel 2013 or newer on your laptop, install a recent version of Excel. This typically requires purchasing and installing Microsoft Office—at least the Excel portion.
   * Ensure that you're installing the laptop version and not the Office 356 version (cloud only)
   * The Home and Student version of Microsoft Office is sufficent
+
+<!--
 * Download and install Microsoft's [Power Query for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=39379&CorrelationId=ceb0208b-85a3-444c-acfe-b09fffa6498d) add-on. You use this add-on to import additional data filetypes into Excel.
   * For the add-on to become active in Excel, you must activate a setting in Excel. You will do that in class, but if you want to activate it in Excel beforehand to play with it, you can:
     * Open Excel
@@ -22,6 +24,7 @@ This lesson teaches you how to work with the most common types of data text file
     * When the dialog box opens, click on the "Manage" dropdown near the bottom of the dialog, select "COM Add-ins" and click Go
     * In the COM Add-ins dialog click "Microsoft Power Query for Excel"
     *  You should now see "Power Query" as one of the choices in the Excel menu bar
+-->
 
 * [Video: Adding Data to a Spreadsheet (2:18)](https://teamtreehouse.com/library/adding-data-to-a-spreadsheet)
 * [Reading: CSV vs XML vs JSON – Which is the Best Response Data Format?](https://applerepairstation.co.uk/csv-vs-xml-vs-json-which-is-the-best-response-data-format/)
@@ -29,20 +32,31 @@ This lesson teaches you how to work with the most common types of data text file
 ## In-class work
 
 ### Discuss three types of text file formats for storing data - 15 min**
-  * Rows and column text files such as CSV and delimited files
+
+Search and find descriptions and documentation for these three data text files.  They all are file types that store data as text.
+
+Compare and contrast these data text files and their formats
+  * CSV and other delimited files - Rows and column data text files
   * JSON
+      We will work with JSON in much more depth in Tablea part 2 when we retieve data from APIs 
   * XML
 
-### Code-along: import csv files delimited with various delimiters - 15 min**
+### Code-along: import CSV files delimited with various delimiters - 15 min**
   * Although many people use the names synonymously, there are differences between CSV and simpler delimited files
-  * Download these files again if you don't have them available
+ 
+ 
+1. Download these files for use in this code along
     * [products.csv](https://s3-us-west-2.amazonaws.com/learn-assets.galvanize.com/gSchool/ds-curriculum/precourse/products.csv)
     * [purchases.txt](https://s3-us-west-2.amazonaws.com/learn-assets.galvanize.com/gSchool/ds-curriculum/precourse/purchases.txt)
-  In a file manager (Explorer on Windows, Finder on Mac), click on the products.csv file to open it in Excel
-    * Note that the data imported successfully; this is because this CSV file happens to designated the columns and data in a way that matches Excel's default import settings
-  * Import the purchases.txt file by clicking on it 
-    * Note that the data didn't import into Excel successfully; this is because you can't depend on the "click on the file in a file manager" way of importing data
-  * Import using Excel's Data > From Text functionality
+2. In a file manager (Explorer on Windows, Finder on Mac), click on the products.csv file to open it in Excel
+    * Note that the data imported successfully; this is because this CSV file happens to be encoded way that matches Excel's default import settings
+3. In a file manager such as Finder (Mac) or Explorer (Windows) clicking on the purchases.txt file to import it
+    * Note that the data didn't import into Excel successfully.   As analyts we can not depend on the "click the file in a file manager" way of importing data
+        * Rather,  our habit for importing delimited files should be to import delimited files using Excel's Data > From Text functionality
+
+4. View the purchases.txt file in a text editor such as Notepad (Windows), TextEdit (Mac) or a text editor with more functionality such as Atom or Sublime
+4. Import purchase.txt using Excel's Data > From Text
+      * Chose settings in the From Text dialog box to import the data successfully from the file
 
 ### !challenge
 
@@ -53,6 +67,9 @@ This lesson teaches you how to work with the most common types of data text file
 ##### !question
 
 ### Exercise: import files with different delimiters - 15 min**
+
+In this exercise you will import several delimited text data files into Excel
+
 * Work in pairs
 * Import a new file using Data > From Text
 * Download these Pronto files for use with Excel:
