@@ -34,10 +34,28 @@ With VLOOKUP, the value that you look up must exist in the first *column* of the
 <br>
 
 ### Code-along: use VLOOKUP to fetch data from other tables - 15 min**
-* Use the three "sales" CSV files [purchases.csv](https://drive.google.com/file/d/1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW/view?usp=sharing), [customers.csv](https://drive.google.com/file/d/1_69gMSjnx7owplIVzKu1SGdNLdNmXGez/view?usp=sharing), and [products_horz.csv](https://drive.google.com/file/d/1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney/view?usp=sharing)
-* Use VLOOKUP to add the customer name and city from the customer table to each row of the purchases table
-* Danger! You must use absolute references; otherwise the table_range moves when you copy the VLOOKUP formula to another cell
-    * You can also use range names. Change your VLOOKUP reference table_array value to a range name.
+
+**Notes:**
+
+In this code-along use LOOKUPs to combine data from other Excel tables into single table
+
+**Instructions:**
+ 
+1. Use the three "sales" CSV files [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW/view?usp=sharing), [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez/view?usp=sharing), and [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney/view?usp=sharing)
+
+2. Use VLOOKUP to add the customer name and city from the customer table to each row of the purchases table
+
+     * We try this formula but eventually get errors as we copy the formula to all the rows.
+
+     * Danger! You must use absolute references; otherwise the table_range moves when you copy the VLOOKUP formula to another cell
+
+3. Modify the formula to use absolute references
+4.  Alternately we can also use range names for the reference table range. Change your VLOOKUP reference table_array value to a range name and use that in the VLOOKUP formula.
+
+
+
+
+
 <br>
 
 ### !challenge
