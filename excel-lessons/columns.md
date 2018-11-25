@@ -71,8 +71,14 @@ Here’s a second example: imagine that you have a column that includes the city
 ##### !question
 
 **Exercise: extract left, right, and middle parts of text (15 min)**
-* Work in pairs
-* Use data extracted from the da_pronto.trip data
+
+**Notes**
+* In this code-along we will create new columns with data extracted from other Excel columns.
+* Use data from the da_airbnb schema for this code-along table
+
+**Instuctions**
+1. Work in pairs
+2. Extract 1,000 random rows with the Use data extracted from the da_pronto.trip data
   * Prepare new columns with substrings extracted from other columns
     * In a new column, use LEFT to extract the text part of the bikeid
     * In a new column, use RIGHT to extract the numerical part of the bikeid
@@ -213,6 +219,13 @@ Paste link here
 * title: Create date and time part columns
 
 ##### !question
+
+## Solutions
+Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=1uwz0H2A0Fmr7-AAlsHcfz41zc5ksfY6w). These are intended for use after the exercises are completed.
+
+Solutions to the code-alongs in this lesson are available in [this spreadsheet]((https://drive.google.com/uc?export=download&id=15ba5zPqGaBaMdHei7Bm6FIqa7Tn2qyE6)
+
+### Resources
     
 **Exercise: Pronto bike share data (40 min)**
 * Work in pairs
