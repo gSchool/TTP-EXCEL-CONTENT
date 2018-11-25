@@ -41,7 +41,7 @@ In this code-along use LOOKUPs to combine data from other Excel tables into sing
 
 **Instructions:**
  
-1. Use the three "sales" CSV files [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW/view?usp=sharing), [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez/view?usp=sharing), and [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney/view?usp=sharing)
+1. Use the three "sales" CSV files [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW), [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez/view), and [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney)
 
 2. Use VLOOKUP to add the customer name and city from the customer table to each row of the purchases table
 
