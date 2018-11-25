@@ -23,10 +23,12 @@ Here’s a second example: imagine that you have a column that includes the city
 ## In-class work                     
 
 ### Code-along: extract leading and trailing substrings (15 min)
+
+**Notes**
 * In this code-along we will create new columns with data extracted from other Excel columns.
 * Use data from the da_airbnb schema for this code-along table
 
-Instuctions
+**Instuctions**
 
 1. Use a SQL query to retrieve 10,000 random rows from the da_airbnb.listings table in our on-line database.
 
@@ -87,19 +89,48 @@ Paste link here
 
 
 ### Code-along: extract text parts from text cells (15 min)
-In this code along you will create new columns that contain text extracted from existing columns
-* Use the da_pronto trip data for this code along
 
-table and extract 10,000 rows spreadsheet
+**Notes**
+* In this code along you will create new columns that contain text extracted from existing columns
+* Continue to use the Excel Airbnb workbook from the previous code-along
 
+**Instuctions**
 
-* Use FIND to locate a character's position in a string
-* Use FIND with LEFT and RIGHT to extract to the left or right of any substring
-  * Extract before or after the character
-    * =RIGHT(A1,LEN(A1)-FIND(",",A1)) 
-    * =LEFT(A1,FIND(",",A1)-1)
-* Identify if the text contains a substring
-  * [SEARCH](https://support.office.com/en-us/article/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)
+1. Use [FIND](https://support.office.com/en-us/article/find-findb-functions-c7912941-af2a-4bdf-a553-d0d89b0a0628) in a formula to find the position of the first comma in the host_location values
+
+    ```
+    =FIND(",",C2)
+    ```
+    
+2.  Use FIND with LEFT to extract the substring to the left of the comma
+
+    ```
+    =LEFT(C2, FIND(",",C2) - 1)
+    ```
+  
+3.  Use FIND with RIGHT to extract the substring to the right of the comma
+
+    ```
+    =RIGHT(C2,LEN(C2)-FIND(",",C2))
+    ```
+
+4. We have #VALUE! errors in our formula columns.  This happens when the when the values do no t have a comma in them such as when the value is US.  Let's handle that error in the formulas with the [IFERROR](https://support.office.com/en-us/article/iferror-function-c526fd07-caeb-47b8-8bb6-63f3e417f611) function.
+
+    ```
+    =IFERROR(LEFT(C2, FIND(",",C2) - 1), C2)
+    ```
+    
+    ```
+    =IFERROR(RIGHT(C2,LEN(C2)-FIND(",",C2)), "")
+    ```
+
+5. Create a new column that is TRUE if a particular city is in the host_location value
+
+    * [SEARCH](https://support.office.com/en-us/article/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)
+    
+    ```
+    
+  
 
 ### !challenge
 
