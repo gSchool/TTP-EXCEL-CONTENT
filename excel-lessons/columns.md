@@ -38,6 +38,7 @@ Here’s a second example: imagine that you have a column that includes the city
     ORDER BY RANDOM()
     LIMIT 250
     ```
+    
 2. Export the retrieved data from pgAdmin into a csv file using the download button in the SQL editor pane.
     * Note if you need to change the delimiter settings you can do that in the pgAdmin File-> Preferences-> Query Tool-> CSV Output settings
 3. Open a new workbook in Excel and import the data into Excel using Data -> From Text
@@ -160,10 +161,50 @@ Paste link here
 
 ### Code-along: create date part columns (20 min)
 
-1. Review documentation for Excel date functions
-2. Export a sample of the Readychef event table and import into Excel
-* Create a month and year column
-* Create a quarter column
+**Notes**
+* In this code along you will create new columns that contain dateparts of an existing column
+* Continue to use the Excel Airbnb workbook from the previous code-along
+
+**Instuctions**
+
+1. Retrieve 1,000 rows with several columns from the da_airbnb.
+
+    ```SQL
+    SELECT listing_id, id, date, reviewer_id, reviewer_name
+    FROM da_airbnb.reviews
+    ORDER BY RANDOM()
+    LIMIT 1000
+    ```
+
+2. Review documentation for [Excel date functions](https://support.office.com/en-us/article/date-and-time-functions-reference-fd1b5961-c1ae-4677-be58-074152f97b81)
+3. Download and import the data into an new Excel tab
+4. Create a new column that contains the day from the date column
+
+    ```Excel
+    =DAY(C2)
+    ```
+5. Create a month column
+
+    ```Excel
+    =MONTH(C2)
+    ```
+
+6. Create a year column
+
+    ```Excel
+    =YEAR(C2)
+    ```
+
+7. Now let's extract the quarter from the data.
+
+    * We see that there is no quarter function in the Excel date functions.  
+    * Find a formula for calulating the calendar quarter of the data.
+    * A search for "excel quarter from date" gets us to a page similar to [this](https://www.extendoffice.com/documents/excel/3471-excel-find-quarter-from-date.html).
+    * Apply that formula in a new columns.
+ 
+    ```Excel
+    =Quarter(C2)
+    ```
 
 ### !challenge
 
