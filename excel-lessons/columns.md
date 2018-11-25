@@ -124,13 +124,13 @@ Paste link here
     =IFERROR(RIGHT(C2,LEN(C2)-FIND(",",C2)), "")
     ```
 
-5. Create a new column that is TRUE if a particular city is in the host_location value
+5. Create a new column that if a particular city is in the host_location value
 
     * [SEARCH](https://support.office.com/en-us/article/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)
     
     ```
-    
-  
+    =IFERROR(SEARCH("Seattle",C2), 0)
+    ```
 
 ### !challenge
 
@@ -159,8 +159,9 @@ Paste link here
 ### !end-challenge
 
 ### Code-along: create date part columns (20 min)
-* Review documentation for Excel date functions
-* Export a sample of the Readychef event table and import into Excel
+
+1. Review documentation for Excel date functions
+2. Export a sample of the Readychef event table and import into Excel
 * Create a month and year column
 * Create a quarter column
 
