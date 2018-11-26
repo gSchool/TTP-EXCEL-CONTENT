@@ -48,15 +48,18 @@ Once data analysts import data, the next step is to make it useable for analysis
 
 ##### !question
 **Exercise: remove extraneous characters - 15 min**
-* Work in pairs
-* Use the [EXAMPLE_DataToClean spreadsheet](https://drive.google.com/uc?export=download&id=16SjBuqk5gPoqVM0oDKFreXxuhOTi21jv)
-* In the Area column, fill in the blank cells with the appropriate area name
-* In the Street column:
-  *  Remove leading and trailing blanks
-  *  Replace the odd characters with blanks
-* In the Street 2 column:
-  * Use the [PROPER](https://support.office.com/en-us/article/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94?ui=en-US&rs=en-US&ad=US) function to capitalize each word 
-  * Sort by this last column and make any manual corrections that may be needed to the column values
+
+**Instructions:**
+
+1. Work in pairs
+2. Use the [EXAMPLE_DataToClean spreadsheet](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0)
+3. In the Area column, fill in the blank cells with the appropriate area name
+4. In a new column create a formula that:
+    *  Removes leading and trailing blanks in the Street column (column C)
+    *  Replaces the odd characters with blanks
+5. In a new column create a formula using [PROPER](https://support.office.com/en-us/article/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94?ui=en-US&rs=en-US&ad=US) to capitalize each word of the Street 2 column.
+6. In a new column create a formula that combines the logic from the previous two steps into one formula
+
   * Submit a GitHub link to your spreadsheet
 
 ##### !end-question
