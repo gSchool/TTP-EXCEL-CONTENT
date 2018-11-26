@@ -123,3 +123,8 @@ Paste link here:
 ##### !end-placeholder
 
 ### !end-challenge
+
+## Solutions
+* Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=1m2NHeo8Cbm6I1H1ejf6wKfD6AT3y8l5u). These are intended for use after the exercises are completed.
+
+### Resources
