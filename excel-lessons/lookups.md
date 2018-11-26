@@ -25,19 +25,19 @@ With VLOOKUP, the value that you look up must exist in the first *column* of the
 
 ## In-class work
 
-### Combine data from different sources using LOOKUPs
-**Overview of the VLOOKUP function - 10 min**
+### Overview of the VLOOKUP function - 10 min**
 * Use online documentation 
+* LOOKUPs allow us to join data from one Excel table to another table.
 * Emphasize the need to typically set the "Range LOOKUP" parameter to FALSE!
   * This is a good example of the benefit of looking at default paramaters and the other options that are available to you
   * Note limitations such as LOOKUPs returning only the first match of the external table  
 <br>
 
-### Code-along: use VLOOKUP to fetch data from other tables - 15 min**
+### Code-along: use VLOOKUP to fetch data from other tables - 15 min
 
 **Notes:**
 
-In this code-along use LOOKUPs to combine data from other Excel tables into single table
+In this code-along we will use LOOKUPs to join data from different Excel tables, albeit a very limited type of join.
 
 **Instructions:**
  
@@ -51,27 +51,21 @@ In this code-along use LOOKUPs to combine data from other Excel tables into sing
 
 3. Modify the formula to use absolute references and show the results
 4. Alternately we can also use range names as the reference table range in the LOOKUPs. Change your VLOOKUP reference table_array value to a range name and use that in the VLOOKUP formula.
-5. Now let's add information from the products_horz.csv data.  Import the products_horz.csv data into a new tab.
-6. Looking at the imported data we see that the id values we want to join on are in columns rather than rows.  So we will use HLOOKUP to retrieve the name of the product for each purchase in the purchase table.
-7. We have used both VLOOKUPS
-
-
-
 <br>
 
 ### !challenge
 
 * type: paragraph
 * id: 03e30b6b-8e09-4eaf-a9e5-60d532341d22
-* title: Fetch data with VLOOKUP
+* title: Fetch data with LOOKUPs
 
 ##### !question
 **Exercise: fetch data from other tables - 15 min**
 * Work in pairs
 * Use the TCP-H Benchmark data set
-  * Download and unzip [this file](https://drive.google.com/file/d/1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3/view?usp=sharing) containing the TCP-H tables
-    * Alternately, download the files individually [here](https://drive.google.com/drive/folders/1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl?usp=sharing)
-  * [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing)
+  * Download and unzip [this file](https://drive.google.com/uc?export=download&id=1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3) containing the TCP-H tables
+    * Alternately, download the files individually [here](https://drive.google.com/uc?export=download&id=1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl)
+  * [TCP-H data Schema diagram]https://drive.google.com/uc?export=download&id=150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI)
 * Import orders.csv into an Excel worksheet
   * Name the worksheet "Orders"
 * Import customers.csv into a second worksheet and name the worksheet "Customers"
@@ -90,10 +84,13 @@ Paste link here:
 
 ### !end-challenge
 
-**Code-along: use `HLOOKUP` to fetch data from another table (10 min)**
-* Continue using the spreadsheet from the previous code-along
-* Import the [products_horz.csv](https://drive.google.com/open?id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney) file into a new tab
-* Use HLOOKUPs to add the product name and price to each record in the purchases table
+### Code-along: use `HLOOKUP` to fetch data from another table (10 min)
+
+**Instructions:**
+1. Continue using the spreadsheet from the previous code-along
+2. Import the [products_horz.csv](https://drive.google.com/open?id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney) file into a new tab
+3. Looking at the imported data we see that the id values we want to join on are in columns rather than rows.  So we will use HLOOKUP to retrieve the name of the product for each purchase in the purchase table.
+4. Use HLOOKUPs to add the product name and price to each record in the purchases table
     
 ### !challenge
 
@@ -103,16 +100,19 @@ Paste link here:
 
 ##### !question
 
-**Exercise: use LOOKUPs to fetch data from other tables (25 min)**
-* Work in pairs
-* Continue using the spreadsheet that you created in the last challenge
-* Refer to the [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing) to determine connections between the tables
-* Add the country and region of the customer to each row of the orders table; to do this:
-  * Import the nation.csv file into an Excel tab (worksheet)
-  * Import the [region_horz.csv](https://drive.google.com/open?id=1d7TUbr475M_9HNiKcGUcOsMPKeklwrbj) file into an Excel tab
-  * Use HLOOKUP to add a Region column to the Country
-  * Use a LOOKUP to add the country and region to each line of the orders table
-* Submit a GitHub link to this spreadsheet
+### Exercise: use LOOKUPs to fetch data from other tables (25 min)
+
+**Instructions:**
+
+1. Work in pairs
+2. Continue using the spreadsheet that you created in the last challenge
+3. Refer to the [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing) to determine connections between the tables
+4. Add the country and region of the customer to each row of the orders table; to do this:
+5. Import the nation.csv file into an Excel tab (worksheet)
+6. Import the [region_horz.csv](https://drive.google.com/open?id=1d7TUbr475M_9HNiKcGUcOsMPKeklwrbj) file into an Excel tab
+7. Use HLOOKUP to add a Region column to the Country
+8. Use a LOOKUP to add the country and region to each line of the orders table
+9. Submit a GitHub link to this spreadsheet
 
 ##### !end-question
 
