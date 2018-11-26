@@ -31,9 +31,9 @@ The syntax for `INDEX` and `MATCH` is more complicated to write, but it’s ofte
 **Notes:**
 
 Use the three "sales" CSV files: 
-    * [purchases.csv](https://drive.google.com/file/d/1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW/view?usp=sharing)
-    * [customers.csv](https://drive.google.com/file/d/1_69gMSjnx7owplIVzKu1SGdNLdNmXGez/view?usp=sharing)
-    * [products_horz.csv](https://drive.google.com/file/d/1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney/view?usp=sharing)
+    * [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW)
+    * [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez)
+    * [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney)
 
 **Instructions:**
 
