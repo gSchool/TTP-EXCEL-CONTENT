@@ -244,7 +244,7 @@ Paste link here
 ## Solutions
 * Solutions to the code-alongs in this lesson are available in the [columns_codealongs.xlsx](https://drive.google.com/uc?export=download&id=15ba5zPqGaBaMdHei7Bm6FIqa7Tn2qyE6) spreadsheet.
 * Example exercise solutions for text extraction exercises are in the [columns_pronto_exercises - Solutions.xlsx](https://drive.google.com/uc?export=download&id=1OiHUrfdPGHpCMpBqW0NA93B_Fk1qnjFv) spreadsheet.
-Example exercise solutions for datepart extraction exercises are in the [Datepart exercise - Solutions.xlsx](https://drive.google.com/uc?export=download&id=1YsvPUz44vGBEl54I7gdKYFEOskZJWkoe).
+Example exercise solutions for datepart extraction exercises are in the [datepart_exercise - Solutions.xlsx](https://drive.google.com/uc?export=download&id=1YsvPUz44vGBEl54I7gdKYFEOskZJWkoe).
 * These are intended for use after the exercises are completed.
 
 ### Resources
