@@ -52,7 +52,8 @@ In this code-along use LOOKUPs to combine data from other Excel tables into sing
 3. Modify the formula to use absolute references and show the results
 4. Alternately we can also use range names as the reference table range in the LOOKUPs. Change your VLOOKUP reference table_array value to a range name and use that in the VLOOKUP formula.
 5. Now let's add information from the products_horz.csv data.  Import the products_horz.csv data into a new tab.
-6. Looking at the imported data we see that we need to use the values 
+6. Looking at the imported data we see that the id values we want to join on are in columns rather than rows.  So we will use HLOOKUP to retrieve the name of the product for each purchase in the purchase table.
+7. We have used both VLOOKUPS
 
 
 
