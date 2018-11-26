@@ -220,23 +220,16 @@ Paste link here
 
 ##### !question
 
-## Solutions
-Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=1uwz0H2A0Fmr7-AAlsHcfz41zc5ksfY6w). These are intended for use after the exercises are completed.
-
-Solutions to the code-alongs in this lesson are available in [this spreadsheet]((https://drive.google.com/uc?export=download&id=15ba5zPqGaBaMdHei7Bm6FIqa7Tn2qyE6)
-
-### Resources
-    
 **Exercise: Pronto bike share data (40 min)**
-* Work in pairs
-* Export a sample of 50,000 rows from the da_pronto.trip database table 
-* Create columns derived from existing columns 
-  * Create a year column
-  * Create a month column
-  * Create a quarter column
-  * Create an hour column
-    * Search to find solutions in documentation or other resources on the web
-* Submit a GitHub link to this spreadsheet
+
+1. Work in pairs
+2. Export a sample of 50,000 rows from the da_pronto.trip database table 
+3. Create columns derived from existing columns 
+4. Create a year column
+5. Create a month column
+6. Create a quarter column
+7. Create an hour column. Search to find solutions in documentation or other resources on the web
+8. Submit a GitHub link to this spreadsheet
 
 ##### !end-question
 
@@ -246,3 +239,10 @@ Paste link here
 ##### !end-placeholder
 
 ### !end-challenge
+
+## Solutions
+* Solutions to the code-alongs in this lesson are available in [this spreadsheet]((https://drive.google.com/uc?export=download&id=15ba5zPqGaBaMdHei7Bm6FIqa7Tn2qyE6)
+* Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=1uwz0H2A0Fmr7-AAlsHcfz41zc5ksfY6w). These are intended for use after the exercises are completed.
+
+### Resources
+    
