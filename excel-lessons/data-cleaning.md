@@ -26,16 +26,16 @@ Once data analysts import data, the next step is to make it useable for analysis
 * Obtaining and cleaning data for an anlysis can often take 50-80% of an analyst's time so make sure you allocate time for this step of analysis 
 
 ### Code along: remove extraneous characters - 15 min
-1. Use the [data_cleaning_demo.xlsx](https://drive.google.com/file/d/10PFvbBtuSEVSmt0RmyfuzMbAERBkVY42/view?usp=sharing) spreadsheet for this code along
+1. Use the [data_cleaning_demo.xlsx](https://drive.google.com/uc?export=download&id=10PFvbBtuSEVSmt0RmyfuzMbAERBkVY42) spreadsheet for this code along
 2. Duplicate the Starting data tab
 3. Select the column headers and data in the tab and turn those into a Excel table using Data->Filter
 4. In the month column fill in the blank cells with the month value
   * ```Home > Find & Select > Go To Special```.   A Go To Special dialog box appears. Select the "Blanks" option
   * Enter a formula that copies the previous cell in the column. For example, "=B2" in cell B3
   * hit *Ctrl-Enter* to copy the formula to all the blank cells
-* Create a new column with a formula that [TRIM](https://support.office.com/en-us/article/trim-function-410388fa-c5df-49c6-b16c-9e5630b479f9)s the values in the previous column
-* Create a new column with a formula that [CLEAN](https://support.office.com/en-us/article/clean-function-26f3d7c5-475f-4a9c-90e5-4b8ba987ba41)s the values in the previous column
-* Create a new column with a formula that [LOWER cases](https://support.office.com/en-us/article/lower-function-3f21df02-a80c-44b2-afaf-81358f9fdeb4) the values in the previous column
+* Create a new column with a formula that [TRIMs](https://support.office.com/en-us/article/trim-function-410388fa-c5df-49c6-b16c-9e5630b479f9) the values in the previous column
+* Create a new column with a formula that [CLEANs](https://support.office.com/en-us/article/clean-function-26f3d7c5-475f-4a9c-90e5-4b8ba987ba41) the values in the previous column
+* Create a new column with a formula that [LOWERs](https://support.office.com/en-us/article/lower-function-3f21df02-a80c-44b2-afaf-81358f9fdeb4) (lowercases) the values in the previous column
 * Create a new column with a formula that uses [SUBSTITUTE](https://support.office.com/en-us/article/substitute-function-6434944e-a904-4336-a9b0-1e58df3bc332) to change the previous columns values that have blanks to "widget". 
 * Change the data type of all the values in the purchases column to integer from their current data types
 <br>
@@ -49,14 +49,14 @@ Once data analysts import data, the next step is to make it useable for analysis
 ##### !question
 **Exercise: remove extraneous characters - 15 min**
 * Work in pairs
-* Use the [EXAMPLE_DataToClean spreadsheet](https://drive.google.com/file/d/16SjBuqk5gPoqVM0oDKFreXxuhOTi21jv/view?usp=sharing)
+* Use the [EXAMPLE_DataToClean spreadsheet](https://drive.google.com/uc?export=download&id=16SjBuqk5gPoqVM0oDKFreXxuhOTi21jv)
 * In the Area column, fill in the blank cells with the appropriate area name
 * In the Street column:
   *  Remove leading and trailing blanks
   *  Replace the odd characters with blanks
 * In the Street 2 column:
   * Use the [PROPER](https://support.office.com/en-us/article/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94?ui=en-US&rs=en-US&ad=US) function to capitalize each word 
-  * Sort by the column and do a few manual corrections
+  * Sort by this last column and make any manual corrections that may be needed to the column values
   * Submit a GitHub link to your spreadsheet
 
 ##### !end-question
