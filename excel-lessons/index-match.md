@@ -113,3 +113,7 @@ Paste your link here:
 
 ### !end-challenge
 
+## Solutions
+* Example solutions to the exercises in this lesson are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=123ydMxjJGwsYcDa395pFoSH7Q4QLlHHt). These are intended for use after the exercises are completed.
+
+### Resources
