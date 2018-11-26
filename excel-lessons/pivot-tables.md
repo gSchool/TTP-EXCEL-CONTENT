@@ -1,30 +1,38 @@
 # Pivot tables
 
-2 hrs
-<br><br>
- 
-One of the most important analysis techniques is determining aggregate values for each distinct value in a category column.  For example, you may want to determine the total web page impressions by country for a website. pivot tables are a quick and interactive way to do that. In this lesson, you create pivot tables that provide the aggregations that you need.
+This lesson explores pivot tables. A pivot table allows you to quickly and automatically summarize large amounts of data using an easy drag-and-drop method, which you can then reorganize (or, in other words, “pivot”) and add to or take away from.
 
-### Learning objectives:
+<div class='bg-info' style='padding:8px;border-style:solid;border-width:2px;border-color:#00BFFF'>
+<strong>Aside:</strong><br>
+Excel pivot tables are similar to SQL’s `GROUP BY` statement and Tableau’s tables. Since data analysts often work with each of these platforms, it’s important to know how to perform this functionality in each. 
+
+</div>
+
+<br>
+
+For example, imagine that you want to know how users interact with the videos on your company’s website. You have data on each user’s age, gender, and the amount of time that they spent watching each video. You can quickly create a pivot table that displays the average amount of time that users spent watching videos by age, and then rearrange that data to create a second pivot table that displays the average amount of time that users spent watching videos  by gender, then add filters that allow you to see the averages of a specific video.
+
+
+## Learning objectives:
 *By the end of this lesson, you will be able to:*
 * Define what a pivot table is
 * Describe how split-aggregate-combine logic creates a pivot table
 * Apply Excel's pivot table capability to generate aggregates grouped by distinct values of columns
 <br>
 
-## Pre-work:
+## Prework:
 * [Video: Pivot Tables (13:10)](https://www.youtube.com/watch?v=BkmxrvIfDGA&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=11)
 * [Video: Pivot Tables Made Easy with Recommended Pivot Tables (5:16)](https://www.youtube.com/watch?v=ebdgGbsTWs8&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=12)
 
-### Use pivot tables to look at aggregates sliced by categories
-**Overview of pivot tables - 20 min**
+## In-class work
+
+### Overview of pivot tables (20 min)
 * Discuss the purpose, importance, and structure of pivot tables
 * Share how pivot tables are Excel's method for creating aggregates group by distinct column values
   * [pivot tables - split apply combine in Excel](https://www.safaribooksonline.com/library/view/learning-pandas/9781783985128/graphics/5128OS_09_01.jpg)
 * Review Excel's pivot table capabilities and limitations
-<br>
 
-**Code-along: export data from a database using pgAdmin - 10 min**
+### Code-along: export data from a database using pgAdmin (10 min)
 * Extract data from the da_readychef schema
 * Work in pairs and explain the SQL code below to each other
 
@@ -43,7 +51,7 @@ One of the most important analysis techniques is determining aggregate values fo
    * Show that export preferences are set in pgAdmin by clicking ```File -> Preferences -> SQL Editor -> CSV Output```
 
 
-**Code-along: create pivot tables in Excel - 20 min**
+### Code-along: create pivot tables in Excel (20 min)
 * Use the readychef table from the previous code-along to provide the data for this Excel code-along
 * Create a pivot table  
   * Read the CSV file into an Excel spreadsheet tab
@@ -54,8 +62,6 @@ One of the most important analysis techniques is determining aggregate values fo
   * Position the meal_type above the date in the ROWS pane
 * Demonstrate how to change the aggregation type in the VALUES pane by demonstrating with meal price
   * Add an average price column to the VALUES pane
-<br>
-
 
 ### !challenge
 
@@ -64,7 +70,7 @@ One of the most important analysis techniques is determining aggregate values fo
 * title: Create a pivot table
 
 ##### !question
-**Exercise: create a pivot table that sums - 25 min**
+**Exercise: create a pivot table that sums (25 min)**
 * Answer the question "What dates in early fall of 2015 did people use bikes the longest?"
 * Work in pairs
 * Extract data from the da_pronto.trip table
@@ -95,14 +101,14 @@ One of the most important analysis techniques is determining aggregate values fo
 
 ##### !placeholder
 
-Submit the link here
+Submit the link here:
 
 ##### !end-placeholder
 
 ### !end-challenge
 
 
-**Code-along: improve user experience by formatting pivot tables - 20 min**
+### Code-along: improve user experience by formatting pivot tables (20 min)
 * Continue using the spreadsheet from the previous code-along
 * Demonstrate that pivot tables don't auto update
   * Demonstrate how to manually trigger an update
@@ -125,7 +131,7 @@ Submit the link here
 
 ##### !question
 
-**Exercise: make a pivot table more useful - 25 min**
+**Exercise: make a pivot table more useful (25 min)**
 * Continue using the Pronto spreadsheet from the first challenge
 * Modify the pivot table by adding gender to the COLUMNS pane
 * Make the following changes to improve the user experience
@@ -140,7 +146,7 @@ Submit the link here
 
 ##### !placeholder
 
-Submit the link here
+Submit the link here:
 
 ##### !end-placeholder
 
