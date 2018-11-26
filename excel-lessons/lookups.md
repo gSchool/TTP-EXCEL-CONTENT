@@ -108,7 +108,7 @@ Paste link here:
 2. Continue using the spreadsheet that you created in the last challenge
 3. Refer to the [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing) to determine connections between the tables
 4. Add the country and region of the customer to each row of the orders table; to do this:
-5. Import the nation.csv file into an Excel tab (worksheet)
+5. Import the nation.csv file into an Excel tab (worksheet).  See the previous exercise for the location of the nation.csv file.
 6. Import the [region_horz.csv](https://drive.google.com/open?id=1d7TUbr475M_9HNiKcGUcOsMPKeklwrbj) file into an Excel tab
 7. Use HLOOKUP to add a Region column to the Country
 8. Use a LOOKUP to add the country and region to each line of the orders table
