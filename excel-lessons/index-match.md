@@ -52,7 +52,7 @@ Use `INDEX` and `MATCH` to add the customer name and city from the customer tabl
 **Notes:**
 * Work in pairs
 * Use the TCP-H Benchmark CSV files from the LOOKUP lesson or download and unzip [this](https://drive.google.com/file/d/1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3/view?usp=sharing) file, which contains the TCP-H tables. 
-  * Alternately, you can download the files individually [here](https://drive.google.com/drive/folders/1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl?usp=sharing).)
+  * Alternately, you can download the files individually [here](https://drive.google.com/drive/folders/1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl?usp=sharing).
     * [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing)
 
 **Instructions:**
