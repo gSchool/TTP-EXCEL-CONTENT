@@ -30,13 +30,14 @@ The syntax for `INDEX` and `MATCH` is more complicated to write, but it’s ofte
 
 **Notes:**
 
-Use the three "sales" CSV files: 
+* Use the three "sales" CSV files for this code-along: 
     * [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW)
     * [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez)
     * [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney)
 
-**Instructions:**
+* Use this lesson's [code-along solution spreadsheet's](https://drive.google.com/uc?export=download&id=1AtV3_yeH3aTi8h4eFKkhJ1_dqeeoVPtV) "INDEX MATCH to Customers" tab as an example for this code-along.
 
+**Instructions:**
 Use `INDEX` and `MATCH` to add the customer name and city from the customer table to each row of the purchases table.
 
 ### !challenge
@@ -49,13 +50,12 @@ Use `INDEX` and `MATCH` to add the customer name and city from the customer tabl
 **Exercise: fetch data from other tables (20 min)**
 
 **Notes:**
-
 * Work in pairs
-* Use the TCP-H Benchmark CSV files from the *LOOKUP* lesson or download and unzip [this](https://drive.google.com/file/d/1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3/view?usp=sharing) file, which contains the TCP-H tables. (Alternately, you can download the files individually [here](https://drive.google.com/drive/folders/1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl?usp=sharing).)
+* Use the TCP-H Benchmark CSV files from the LOOKUP lesson or download and unzip [this](https://drive.google.com/file/d/1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3/view?usp=sharing) file, which contains the TCP-H tables. 
+  * Alternately, you can download the files individually [here](https://drive.google.com/drive/folders/1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl?usp=sharing).)
     * [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing)
 
 **Instructions:**
-
 1. Import orders.csv into an Excel worksheet and name the worksheet "Orders".
 2. Import customers.csv into a second worksheet and name the worksheet "Customers".
 3. Using `INDEX` and `MATCH`, add a column to the Orders sheet named "Cust_name" that contains the name of the customer for each order row.
@@ -72,13 +72,15 @@ Paste your link here:
 
 ### !end-challenge
 
-### Code-along: use `INDEX` and `MATCH` to fetch data from another table (15 min)
+### Code-along: use `INDEX` and `MATCH` to fetch data from a horizontal table (15 min)
 
 **Notes:**
 
-Continue using the spreadsheet from the previous code-along.
+* Continue using the spreadsheet from the previous code-along.
+* Use this lesson's [code-along solution spreadsheet's](https://drive.google.com/uc?export=download&id=1AtV3_yeH3aTi8h4eFKkhJ1_dqeeoVPtV) "INDEX MATCH to Products" tab as an example for this code-along.
 
 **Instructions:**
+
 1. Import the products_horz.csv file into a new tab.
 2. Use `INDEX` and `MATCH` to add the product name and price to each record in the purchases table.
     
@@ -93,13 +95,11 @@ Continue using the spreadsheet from the previous code-along.
 **Exercise: use INDEX and MATCH to fetch data from other tables (25 min)**
 
 **Notes:** 
-
 * Work in pairs.
 * Continue using the spreadsheet that you created in the last challenge.
-* Refer to the [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing) to determine connections between the tables.
+* Refer to the [TCP-H data Schema diagram](https://drive.google.com/uc?export=download&id=150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI) to determine connections between the tables.
 
 **Instructions:**
-
 1. Use INDEX and MATCH to add the country and region of the customer to each row of the orders table.
 2. Submit a GitHub link to this spreadsheet in the box below.
 
