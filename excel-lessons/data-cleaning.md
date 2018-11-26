@@ -52,13 +52,13 @@ Once data analysts import data, the next step is to make it useable for analysis
 **Instructions:**
 
 1. Work in pairs
-2. Use the [EXAMPLE_DataToClean spreadsheet](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0)
+2. Use the [EXAMPLE_DataToClean spreadsheet](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0) for this exercise.
 3. In the Area column, fill in the blank cells with the appropriate area name
 4. In a new column create a formula that:
     *  Removes leading and trailing blanks in the Street column (column C)
     *  Replaces the odd characters with blanks
 5. In a new column create a formula using [PROPER](https://support.office.com/en-us/article/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94?ui=en-US&rs=en-US&ad=US) to capitalize each word of the Street 2 column.
-6. In a new column create a formula that combines the logic from the previous two steps into one formula
+6. In a new column create a formula that combines the logic from the previous two steps into one formula.
 
   * Submit a GitHub link to your spreadsheet
 
