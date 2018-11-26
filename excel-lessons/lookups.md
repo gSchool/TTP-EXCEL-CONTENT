@@ -41,7 +41,7 @@ In this code-along use LOOKUPs to combine data from other Excel tables into sing
 
 **Instructions:**
  
-1. Use the three "sales" CSV files [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW), [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez/view), and [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney)
+1. Use the three "sales" CSV files [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW), [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez), and [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney)
 
 2. Use VLOOKUP to add the customer name and city from the customer table to each row of the purchases table
 
@@ -49,10 +49,10 @@ In this code-along use LOOKUPs to combine data from other Excel tables into sing
 
      * Danger! You must use absolute references; otherwise the table_range moves when you copy the VLOOKUP formula to another cell
 
-3. Modify the formula to use absolute references
-4.  Alternately we can also use range names for the reference table range. Change your VLOOKUP reference table_array value to a range name and use that in the VLOOKUP formula.
-
-
+3. Modify the formula to use absolute references and show the results
+4. Alternately we can also use range names as the reference table range in the LOOKUPs. Change your VLOOKUP reference table_array value to a range name and use that in the VLOOKUP formula.
+5. Now let's add information from the products_horz.csv data.  Import the products_horz.csv data into a new tab.
+6. Looking at the imported data we see that we need to use the values 
 
 
 
