@@ -148,57 +148,9 @@ In this code-along you will import an XML data file into Excel.
 
 **Instructions:**
 
-1. Download the orders.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
+1. Download the part.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
 2. Use Data > From Other Sources > From File > From XML Data Import to import the parts data into an Excel tab
 3. Examine results of the date import into Excel to confirm the data loaded correctly
 
 ## Solutions
 Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=1JKcyAntKu4jzQHzJtgkmq1hXyb6QfFFJ). These are intended for use after the exercises are completed.
- 
-<!--
-### !challenge
-
-* type: paragraph
-* id: be634953-530c-4eb7-ba8e-bd5136b0dc7a
-* title: Import an XML data File
-
-##### !question
-
-### Optional learning: import an XML file into Excel**
-* Import the part.xml file into Excel
-  * Download the part.xml file from the TPC-H Relational Database Benchmark section on [this page](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h)
-  * Use Data > Get Data > From File > From XML to import into Excel
-    * Note - Depending on which version of Excel you have the menu navigation may be different 
-
-##### !end-question
-
-##### !placeholder
-
-Paste link here
-
-##### !end-placeholder
-
-### !end-challenge
-* Download and install Microsoft's [Power Query for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=39379&CorrelationId=ceb0208b-85a3-444c-acfe-b09fffa6498d) add-on. You use this add-on to import additional data filetypes into Excel.
-  * For the add-on to become active in Excel, you must activate a setting in Excel. You will do that in class, but if you want to activate it in Excel beforehand to play with it, you can:
-    * Open Excel
-    * Click File > Options > Add-Ins
-    * When the dialog box opens, click on the "Manage" dropdown near the bottom of the dialog, select "COM Add-ins" and click Go
-    * In the COM Add-ins dialog click "Microsoft Power Query for Excel"
-    *  You should now see "Power Query" as one of the choices in the Excel menu bar
-
-
-* ["Microsoft Power Query for Excel"](https://support.office.com/en-us/article/connect-to-a-json-file-f65207ab-d957-4bf0-bec3-a08bb53cd4c0#ID0EAACAAA=Newer_versions)
-  * Note that the page contains a selection tab to select use instructions from Excel 2013 and earlier or recent versions of Excel
-* Download the [heath.json](https://drive.google.com/file/d/1lsMQQzdcIHJjE6W-NfC4VMxBAUxBE5mx/view?usp=sharing) file of disease volume by US state
- * Import the JSON file into Excel from the web
-   * Click on the Excel Power Query tab and then "From Web"
-   * Cut/Paste this URL in the URL box: '''https://think.cs.vt.edu/corgis/json/health/health.json'''
-     * Dataset description](https://think.cs.vt.edu/corgis/json/health/health.html)
-   * In the dialog, enter the path and filename of the JSON file
-   * Click OK
-   * When the list of records appears in the editor, click transform -> to table
-   * Click to expand the columns and review the column names
-   * Click on Save and Load to exit and populate the Excel worksheet with the data
- * Show that to read in a JSON file that local on your laptop you use exactly the same steps but with the path and filename as the URL
- -->
