@@ -81,6 +81,6 @@ Paste link here
 
 
 ## Solutions
-Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=1Os_abCcMTexWZ8TRA-Nwqu1HkTnoqtod). These are intended for use after the exercises are completed.
+Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0). These are intended for use after the exercises are completed.
 
 ### Resources
