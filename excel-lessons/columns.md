@@ -242,7 +242,7 @@ Paste link here
 ### !end-challenge
 
 ## Solutions
-* Solutions to the code-alongs in this lesson are available in [this spreadsheet]((https://drive.google.com/uc?export=download&id=15ba5zPqGaBaMdHei7Bm6FIqa7Tn2qyE6)
+* Solutions to the code-alongs in this lesson are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=15ba5zPqGaBaMdHei7Bm6FIqa7Tn2qyE6)
 * Example exercise solutions for text extraction exercises are in the [columns_pronto_exercises - Solutions.xlsx spreadsheet](https://drive.google.com/uc?export=download&id=1OiHUrfdPGHpCMpBqW0NA93B_Fk1qnjFv).
 Example exercise solutions for datepart extraction exercises are in the [Datepart exercise - Solutions.xlsx](https://drive.google.com/uc?export=download&id=d/1YsvPUz44vGBEl54I7gdKYFEOskZJWkoe).
 * These are intended for use after the exercises are completed.
