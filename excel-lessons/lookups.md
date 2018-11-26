@@ -65,7 +65,7 @@ In this code-along we will use LOOKUPs to join data from different Excel tables,
 * Use the TCP-H Benchmark data set
   * Download and unzip [this file](https://drive.google.com/uc?export=download&id=1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3) containing the TCP-H tables
     * Alternately, download the files individually [here](https://drive.google.com/uc?export=download&id=1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl)
-  * [TCP-H data Schema diagram]https://drive.google.com/uc?export=download&id=150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI)
+  * [TCP-H data Schema diagram](https://drive.google.com/uc?export=download&id=150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI)
 * Import orders.csv into an Excel worksheet
   * Name the worksheet "Orders"
 * Import customers.csv into a second worksheet and name the worksheet "Customers"
