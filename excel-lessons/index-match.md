@@ -97,7 +97,7 @@ Paste your link here:
 **Notes:** 
 * Work in pairs.
 * Continue using the spreadsheet that you created in the last challenge.
-* Refer to the [TCP-H data Schema diagram](https://drive.google.com/uc?export=download&id=150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI) to determine connections between the tables.
+* Refer to the [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing) to determine connections between the tables.
 
 **Instructions:**
 1. Use INDEX and MATCH to add the country and region of the customer to each row of the orders table.
