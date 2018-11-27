@@ -120,19 +120,19 @@ Submit the link here:
 
 
 ### Code-along: improve user experience by formatting pivot tables (20 min)
-* Continue using the spreadsheet from the previous code-along
-* Demonstrate that pivot tables don't auto update
-  * Demonstrate how to manually trigger an update
-* Format pivot tables to make them easier to interpret
- * Sort of columns in pivot tables (primary and secondary sorts) including a sort of trip duration
-   * Note that what is primary and what is secondary is dependent on the position of the column in the pivot table
-   * Note how the sort is a sort of the trip duration values within the grouping defined by the ROW field values
- * Add subtotals and grand totals
- * Add filters for dimensions in a pivot table
+
+1. Continue using the spreadsheet from the previous code-along
+2. Demonstrate that pivot tables don't auto update
+3. Demonstrate how to manually trigger an update
+4. Format pivot tables to make them easier to interpret
+5. Sort of columns in pivot tables (primary and secondary sorts) including a sort of trip duration
+   * Note that the sort is a sort of the trip duration values within the grouping defined by the ROW field values
+6. Add subtotals and grand totals
+7. Add filters for a couple of dimensions in the pivot table
    * Add a filter for the meal type in the pivot table's FILTER area
    * Show that a filter can be either in the FILTERS area or in ROWS or COLUMNS, but not both
      * For an attribute in ROWS or COLUMNS, use the filter drop-down in the pivot table location
- * Show that row and column names, such a "Row Labels," can be manually changed to make it easier for the user to interpret 
+8. Show that row and column names, such a "Row Labels," can be manually changed to make it easier for the user to interpret 
 
 ### !challenge
 
@@ -142,16 +142,17 @@ Submit the link here:
 
 ##### !question
 
-**Exercise: make a pivot table more useful (25 min)**
-* Continue using the Pronto spreadsheet from the first challenge
-* Modify the pivot table by adding gender to the COLUMNS pane
-* Make the following changes to improve the user experience
-  * Sort by the sum of the duration decending
-  * Add subtotals where you think that they're appropriate
-  * Format the table; add more descriptive column headers
-  * Add a filter for birthyear
-  * Modify column names in the pivot table to make them easier to understand (if needed)
-* Submit a GitHub link to the spreadsheet
+### Exercise: make a pivot table more useful by improving the formatting (25 min)
+
+1. Continue using the Pronto spreadsheet from the first challenge
+2. Modify the pivot table by adding gender to the COLUMNS pane
+3. Make the following changes to improve the user experience:
+4. Sort by the sum of the duration decending
+5. Add subtotals where you think that they're appropriate
+6. Format the table; add more descriptive column headers
+7. Add a filter for birthyear
+8. Modify column names in the pivot table to make them easier to understand (if needed)
+9. Submit a GitHub link to the spreadsheet
 
 ##### !end-question
 
