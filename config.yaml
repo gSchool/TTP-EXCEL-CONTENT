@@ -29,10 +29,7 @@ Standards:
         Path: /excel-lessons/index-match.md
       - Type: Lesson
         UID: 2974faea-d8e3-4428-8391-53f55af42798
-        Path: /excel-lessons/pivot-tables.md
-      - Type: Lesson
-        UID: 5e458891-f76b-4f3f-8672-601803efcf7b
-        Path: /excel-lessons/more-pivot-tables.md     
+        Path: /excel-lessons/pivot-tables.md  
       - Type: Checkpoint
         Path: /excel-lessons/checkpoint.md
         UID: 12b395fc-2144-4ca5-b050-413461741b85
