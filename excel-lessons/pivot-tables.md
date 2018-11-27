@@ -1,6 +1,6 @@
 # Pivot tables
 
-This lesson explores pivot tables. A pivot table allows you to quickly and automatically summarize large amounts of data using an easy drag-and-drop method, which you can then reorganize (or, in other words, “pivot”) and add to or take away from.
+This lesson explores pivot tables. An Excel pivot table allows you to quickly and easily calculate aggregates grouped by dimensions.  Because it provides an easy drag-and-drop method, you can rapidly slice the data with different dimensions.  
 
 <div class='bg-info' style='padding:8px;border-style:solid;border-width:2px;border-color:#00BFFF'>
 <strong>Aside:</strong><br>
@@ -145,12 +145,13 @@ Submit the link here:
 
 1. Continue using the Pronto spreadsheet from the first challenge
 2. Modify the pivot table by adding gender to the COLUMNS pane
-3. Make the following changes to improve the user experience:
-4. Sort by the sum of the duration decending
-5. Add subtotals where you think that they're appropriate
-6. Format the table; add more descriptive column headers
+3. Remove the MIN and MAX fields from the pivot table
+4. Make the following changes to improve the user experience:
+5. Sort by the sum of the trip duration decending
+5. Make a change to the subtotals and total settings
 7. Add a filter for birthyear
 8. Modify column names in the pivot table to make them easier to understand (if needed)
+9. Remove unnecessary decimal digits from the numerical values
 9. Submit a GitHub link to the spreadsheet
 
 ##### !end-question
