@@ -88,7 +88,7 @@ Paste your GitHub link here:
 
 **Notes:**
 
-Continue using the spreadsheet from the previous code-along.
+Continue using the spreadsheet that you finished with in the previous code-along.
 
 **Instructions:**
 
