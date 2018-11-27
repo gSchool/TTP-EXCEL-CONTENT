@@ -72,7 +72,7 @@ For example, imagine that you want to know how users interact with the videos on
 
 ##### !question
 
-### Exercise: create a pivot table that sums (25 min)
+### Exercise: create a pivot table that contains aggregates (25 min)
 
 **Notes:**
 
