@@ -9,15 +9,14 @@ Pivot tables are a quick and easy way to break out aggregations within a categor
 ### Learning objectives
 *By the end of this lesson, you will be able to:*
 * Add new derived columns to a pivot table
-* Group and ungroup rows
-* Overcome issues when linking to pivot tables from another cell
+* Create pivot charts
 <br>
 
 #### Code along: engineer new columns in a pivot table - 20 min
 Complete these actions concurrently with the instructor:
 * Engineer new columns from existing columns 
   * Load file
-  * Create a pivot table with multiple columns that are value (measure) columns
+  * Create a pivot table with multiple columns
   * Create new columns in the pivot table that are derived from the existing columns
 <br>
 
@@ -29,22 +28,18 @@ Complete these actions concurrently with the instructor:
   * Create new columns in the pivot table that are derived from the existing columns
 <br>
 
-#### Code along: create references to pivot tables - 20 min
-Complete these actions concurrently with the instructor:
-* Demonstrate group and ungroup of row and column values
-* Link to the pivot table from another cell using click for cell range
-  * Illustrate issues from cell range returned
-* Link to the pivot table with hard-coded absolute ranges, and show the results
+#### Code along: create pivot charts - 20 min
+
 <br>
 
-#### Exercise: create references to pivot tables - 20 min
+#### Exercise: create pivot charts - 20 min
 * Work in pairs
-* Link to pivot tables with two methods
+* 
 <br>  
 
-### Exercise: create pivot table analysis from database data - 55 min
-* Work individually and then in pairs
-* Create pivot tables from database data
+### Exercise: create pivot table analysis from project data - 55 min
+* Work individually
+* Create pivot table analyaia from data extracted from database data
   * Create and submit queries to get data from two tables
   * Import data from queries into Excel
   * Clean each raw data table
