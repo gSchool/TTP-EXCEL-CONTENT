@@ -47,7 +47,7 @@ Here’s a second example: imagine that you have a column that includes the city
     
 5. Extract trailing substrings from the host location using [RIGHT](https://support.office.com/en-us/article/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f). 
 
-   *   Looking at the documentation, you need to provide the and the starting location counted from the end of the string. Use the LEN() function so that you can use the length of the text in your calculation of the substring starting position.
+   *   Looking at the documentation, you need to provide the starting location counted from the end of the string. Use the LEN() function so that you can use the length of the text in your calculation of the substring starting position.
    
     ```
     =RIGHT(B2, LEN(B2)-8)
