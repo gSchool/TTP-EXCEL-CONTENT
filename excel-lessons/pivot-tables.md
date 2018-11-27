@@ -164,6 +164,18 @@ Submit the link here:
 
 ### !end-challenge
 
+### Exercise: create pivot table analysis from project data (55 min)  (still needs challenge Learn wrapper around it)
+
+1. Work individually
+2. Create pivot table analysis from data extracted from database data:
+3. Create and submit queries to your project database to get data from two tables
+4. Import data from queries into Excel
+5. Clean each raw data table
+6. Create a new worksheet and use INDEX/Match to combine data from the data tables into a single table
+7. Extract text or dateparts into a new column
+8. Create at least two pivot tables to analyze the data
+9. Sort and format the pivot tables so that they're ready to share with a stakeholder
+
 ## Solutions
 * Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=1o5tJpQQ6mcPWhNaNE4SR5El2FhWCTF9Y). These are intended for use after the exercises are completed.
 
