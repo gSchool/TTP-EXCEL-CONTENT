@@ -38,8 +38,6 @@ Complete these actions concurrently with the instructor:
   * Import data from queries into Excel
   * Clean each raw data table
   * Create a new worksheet and use INDEX/Match to combine data from the data tables into a single table
-  * Create a month column
-  * Create these pivot tables to analyze the data
-    * Summary of revenue by month
-    * Summary of revenue by month and store
+  * Extract text or dateparts into a new column
+  * Create at least two pivot tables to analyze the data
   * Sort and format the pivot tables so that they're ready to share with a stakeholder
