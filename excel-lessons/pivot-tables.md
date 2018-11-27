@@ -33,10 +33,11 @@ For example, imagine that you want to know how users interact with the videos on
 * Review Excel's pivot table capabilities and limitations
 
 ### Code-along: export data from a database using pgAdmin (10 min)
-* Extract data from the da_readychef schema
-* Work in pairs and explain the SQL code below to each other
 
-```
+1. Extract data from the da_readychef schema
+2. Work in pairs and explain the SQL code below to each other
+
+```SQL
    Select e.dt, e.meal_id, event, type as meal_type, price as meal_price
    From da_readychef.events e
       Left Join da_readychef.meals m ON e.meal_id = m.meal_id
@@ -46,22 +47,23 @@ For example, imagine that you want to know how users interact with the videos on
       And event = 'bought'
 ```
 
-* Run the query to extract data from the da_readychef schema
- * Export to a CSV file using a "|" delimiter example
-   * Show that export preferences are set in pgAdmin by clicking ```File -> Preferences -> SQL Editor -> CSV Output```
+3. Run the query to extract data from the da_readychef schema
+4. Export to a CSV file using a "|" delimiter example
+5. Show that export preferences are set in pgAdmin by clicking ```File -> Preferences -> SQL Editor -> CSV Output```
 
 
 ### Code-along: create pivot tables in Excel (20 min)
-* Use the readychef table from the previous code-along to provide the data for this Excel code-along
-* Create a pivot table  
-  * Read the CSV file into an Excel spreadsheet tab
-  * Select the data table and turn it into an Excel table named readychef_meals
-  * Create a pivot table that displays each date (as pivot table ROWS) and the total price of meals (as pivot table VALUE)
-* Modify the pivot table by adding meal type to the rows
-  * Show the effect of moving the meal_type above and then below the date attribute in the ROWS pane
-  * Position the meal_type above the date in the ROWS pane
-* Demonstrate how to change the aggregation type in the VALUES pane by demonstrating with meal price
-  * Add an average price column to the VALUES pane
+
+1. Use the readychef table from the previous code-along to provide the data for this Excel code-along
+2. Create a pivot table using the following steps 
+3. Read the CSV file into an Excel spreadsheet tab
+4. In Excel select the data table and turn it into an Excel table named readychef_meals
+5. Create a pivot table that displays each date (as pivot table ROWS) and the total price of meals (as pivot table VALUE)
+6. Modify the pivot table by adding meal type to the rows
+7. Show the effect of moving the meal_type above and then below the date attribute in the ROWS pane
+8. Position the meal_type above the date in the ROWS pane
+9. Demonstrate how to change the aggregation type in the VALUES pane by demonstrating with meal price
+10. Add an average price column to the VALUES pane
 
 ### !challenge
 
