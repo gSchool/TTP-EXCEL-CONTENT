@@ -162,3 +162,8 @@ Submit the link here:
 ##### !end-placeholder
 
 ### !end-challenge
+
+## Solutions
+* Example solutions to the exercises in this lesson above are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=1o5tJpQQ6mcPWhNaNE4SR5El2FhWCTF9Y). These are intended for use after the exercises are completed.
+
+### Resources
