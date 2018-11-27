@@ -39,7 +39,7 @@ Download the files [products.csv](https://s3-us-west-2.amazonaws.com/learn-asset
     * Note that the data imports successfully because this CSV file is encoded in a way that matches Excel's default import settings.
 2. In your file manager, click on the purchases.txt file to open it in Excel. 
     * Note that the data doesn't import into Excel successfully. Analysts can't depend on the click-the-file-in-a-file-manager way of importing data into Excel. Rather, import CSV and delimited files using Excel's Data > From Text functionality.
-3. View the purchases.txt file in a text editor such as Notepad (Windows), TextEdit (Mac), or a text editor with more functionality, like Atom (preferred by Galvanize) or Sublime.
+3. View the purchases.txt file in a text editor such as Notepad (Windows), TextEdit (Mac), or a text editor with more functionality, like VSCode (preferred by Galvanize), ATOM, or Sublime.
 4. Import purchase.txt using Excel's menu ribbon Data > From Text functionality.
     * Select settings in the From Text dialog to import the data successfully from the file.
 
