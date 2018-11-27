@@ -10,31 +10,31 @@ The lessons *LOOKUP* and *INDEX and MATCH* explore Excel functions that are simi
 
 This lesson covers `INDEX` and `MATCH`, which together accomplish the same function as `VLOOKUP`. 
 
-The syntax for `INDEX` and `MATCH` is more complicated to write, but it’s often worth the effort when working with larger tables (greater than 50,000 rows), or spreadsheets that contain a lot of interdependent logic, since `INDEX` and `MATCH` requires less computation and, therefore, performs faster. 
+The syntax for `INDEX` and `MATCH` is more complicated to write, but it’s often worth the effort when working with larger tables (with more than 50,000 rows), or spreadsheets that contain a lot of interdependent logic, since `INDEX` and `MATCH` requires less computation and, therefore, performs faster. 
 
 ## Learning objectives
 *By the end of this lesson, you will be able to:*
-* Describe the advantages of `INDEX` and `MATCH` over LOOKUPs
-* Use `INDEX` and `MATCH` to fetch data from another table
+* Describe the advantages of `INDEX` and `MATCH` over LOOKUPs.
+* Use `INDEX` and `MATCH` to fetch data.
 
 ## Prework
-* [Video: Excel Index Match: the Basics of Index and Match for Complex Excel Lookup Problems (11:31)](https://www.youtube.com/watch?v=F264FpBDX28)
-* [Video: Excel Index Match Advanced: Lookup Multiple Criteria in Rows or Columns (10:21)](https://www.youtube.com/watch?v=ontXHp9cwOQ)
+* [Video: Excel INDEX MATCH: the basics of INDEX and MATCH for complex Excel lookup problems (11:31)](https://www.youtube.com/watch?v=F264FpBDX28)
+* [Video: Excel INDEX MATCH advanced: look up multiple criteria in rows or columns (10:21)](https://www.youtube.com/watch?v=ontXHp9cwOQ)
 
-### Discuss: combine data from different sources using `INDEX` and `MATCH` (15 min)
-* Overview of INDEX and MATCH functions.
-* Refer to information in the online documentation and search.
+## In-class work
+
+### Discuss: overview of `INDEX` and `MATCH` (15 min)
+* Refer to online documentation.
 * Highlight the compute efficiency advantages of `INDEX` and `MATCH`over LOOKUPs.
 
 ### Code-along: use `INDEX` and `MATCH` to fetch data from other tables (15 min)
 
 **Notes:**
 
-* Use the three "sales" CSV files for this code-along: 
-    * [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW)
-    * [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez)
-    * [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney)
-
+* Use these "sales" CSV files: 
+    * [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW),
+    * [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez),
+    * [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney).
 * Use this lesson's [code-along solution spreadsheet's](https://drive.google.com/uc?export=download&id=1AtV3_yeH3aTi8h4eFKkhJ1_dqeeoVPtV) "INDEX MATCH to Customers" tab as an example for this code-along.
 
 **Instructions:**
@@ -50,14 +50,15 @@ Use `INDEX` and `MATCH` to add the customer name and city from the customer tabl
 **Exercise: fetch data from other tables (20 min)**
 
 **Notes:**
+
 * Work in pairs
-* Use the TCP-H Benchmark CSV files from the LOOKUP lesson or download and unzip [this](https://drive.google.com/file/d/1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3/view?usp=sharing) file, which contains the TCP-H tables. 
-  * Alternately, you can download the files individually [here](https://drive.google.com/drive/folders/1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl?usp=sharing).
-    * [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing)
+* Use the TCP-H Benchmark CSV files from the _LOOKUP_ lesson or download and unzip [this](https://drive.google.com/file/d/1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3/view?usp=sharing) file, which contains the TCP-H tables. Alternately, you can download the files individually [here](https://drive.google.com/drive/folders/1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl?usp=sharing).
+* [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing).
 
 **Instructions:**
-1. Import orders.csv into an Excel worksheet and name the worksheet "Orders".
-2. Import customers.csv into a second worksheet and name the worksheet "Customers".
+
+1. Import orders.csv into an Excel worksheet and name the worksheet "Orders."
+2. Import customers.csv into a second worksheet and name the worksheet "Customers."
 3. Using `INDEX` and `MATCH`, add a column to the Orders sheet named "Cust_name" that contains the name of the customer for each order row.
 4. Using `INDEX` and `MATCH`, add another column to the Orders sheet named "Mrkt_segment" that contains the market segment for the customer for each order row.
 5. Submit a GitHub link to this spreadsheet in the box below.
@@ -66,7 +67,7 @@ Use `INDEX` and `MATCH` to add the customer name and city from the customer tabl
 
 ##### !placeholder
 
-Paste your link here:
+Paste your GitHub link here:
 
 ##### !end-placeholder
 
@@ -76,7 +77,7 @@ Paste your link here:
 
 **Notes:**
 
-* Continue using the spreadsheet from the previous code-along.
+* Continue using the spreadsheet that you finished with in the previous code-along.
 * Use this lesson's [code-along solution spreadsheet's](https://drive.google.com/uc?export=download&id=1AtV3_yeH3aTi8h4eFKkhJ1_dqeeoVPtV) "INDEX MATCH to Products" tab as an example for this code-along.
 
 **Instructions:**
@@ -95,25 +96,25 @@ Paste your link here:
 **Exercise: use INDEX and MATCH to fetch data from other tables (25 min)**
 
 **Notes:** 
+
 * Work in pairs.
-* Continue using the spreadsheet that you created in the last challenge.
+* Continue using the spreadsheet that you created in the previous challenge.
 * Refer to the [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing) to determine connections between the tables.
 
 **Instructions:**
-1. Use INDEX and MATCH to add the country and region of the customer to each row of the orders table.
-2. Submit a GitHub link to this spreadsheet in the box below.
+
+1. Use `INDEX` and `MATCH` to add the country and region of the customer to each row of the orders table.
+2. Submit a GitHub link to the spreadsheet in the box below.
 
 ##### !end-question
 
 ##### !placeholder
 
-Paste your link here:
+Paste your GitHub link here:
 
 ##### !end-placeholder
 
 ### !end-challenge
 
 ## Solutions
-* Example solutions to the exercises in this lesson are available in [this spreadsheet](https://drive.google.com/uc?export=download&id=123ydMxjJGwsYcDa395pFoSH7Q4QLlHHt). These are intended for use after the exercises are completed.
-
-### Resources
+* Example solutions to the exercises in this lesson are available in [this](https://drive.google.com/uc?export=download&id=123ydMxjJGwsYcDa395pFoSH7Q4QLlHHt) spreadsheet. These are intended for use after the exercises are completed.
