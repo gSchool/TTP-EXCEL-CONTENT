@@ -21,12 +21,12 @@ Here’s a second example: imagine that you have a column that includes the city
 
 ### Code-along: extract leading and trailing substrings (15 min)
 
-**Notes**
+**Notes:**
 
 * Create new columns with data extracted from other Excel columns.
 * Use data from the da_airbnb schema.
 
-**Instructions**
+**Instructions:**
 
 1. Use a SQL query to retrieve 1,000 random rows from the da_airbnb.listings table in the online database.
 
@@ -69,12 +69,12 @@ Here’s a second example: imagine that you have a column that includes the city
 
 **Exercise: extract left, right, and middle parts of text (15 min)**
 
-**Notes**
+**Notes:**
 * Create new columns with data extracted from other Excel columns.
 * Use data from the da_airbnb schema.
 * Work in pairs.
 
-**Instructions**
+**Instructions:**
 
 1. Extract 1,000 random rows from the da_pronto.trip online database table and import it into Excel.
 2. In a new column, use `LEFT` to extract the text part of the bike ID.
@@ -93,11 +93,11 @@ Paste your GitHub link here:
 
 ### Code-along: extract text parts from text cells (15 min)
 
-**Notes**
+**Notes:**
 * Create new columns that contain text extracted from existing columns.
 * Continue using the Excel Airbnb workbook from the previous code-along.
 
-**Instructions**
+**Instructions:**
 
 1. Use [FIND](https://support.office.com/en-us/article/find-findb-functions-c7912941-af2a-4bdf-a553-d0d89b0a0628) in a formula to find the position of the first comma in the host_location values.
 
@@ -149,7 +149,7 @@ Paste your GitHub link here:
 * Work in pairs.
 * Continue using the Pronto trip data that you imported into Excel in the previous exercise.
 
-**Instructions**
+**Instructions:**
 
 1. In a new column, use `FIND` with `LEFT` or `RIGHT` to extract the *numerical* part of the station_id.
 2. In a new column, use `FIND` with `LEFT` or `RIGHT` to extract the *character* part of the station_id.
@@ -168,11 +168,11 @@ Paste your GitHub link here:
 
 ### Code-along: create date part columns (20 min)
 
-**Notes**
+**Notes:**
 * Create new columns that contain date parts of an existing column.
 * Continue using the Excel Airbnb workbook from the previous code-along.
 
-**Instructions**
+**Instructions:**
 
 1. Retrieve 1,000 rows with several columns from the da_airbnb.
 
