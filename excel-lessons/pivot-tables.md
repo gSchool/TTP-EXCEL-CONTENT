@@ -57,7 +57,7 @@ For example, imagine that you want to know how users interact with the videos on
 1. Use the readychef table from the previous code-along to provide the data for this Excel code-along
 2. Create a pivot table using the following steps 
 3. Read the CSV file into an Excel spreadsheet tab
-4. In Excel select the data table and turn it into an Excel table named readychef_meals
+4. In Excel select the data table and give it a range name of readychef_meals
 5. Create a pivot table that displays each date (as pivot table ROWS) and the total price of meals (as pivot table VALUE)
 6. Modify the pivot table by adding meal type to the rows
 7. Show the effect of moving the meal_type above and then below the date attribute in the ROWS pane
@@ -72,31 +72,40 @@ For example, imagine that you want to know how users interact with the videos on
 * title: Create a pivot table
 
 ##### !question
-**Exercise: create a pivot table that sums (25 min)**
-* Answer the question "What dates in early fall of 2015 did people use bikes the longest?"
-* Work in pairs
-* Extract data from the da_pronto.trip table
-  * Run the query below to extract the date, from station name, from station id, to_station_id, gender, birthyear, and tripduration from the da_pronto.trip table
+
+### Exercise: create a pivot table that sums (25 min)
+
+**Notes:**
+
+In this exercise you will answer the question "What dates in early Fall of 2015 did people use bikes the longest?"
+
+**Instructions**
+
+1. Work in pairs
+2. Extract data from the da_pronto.trip table
+3. Run the query below to extract the date, from station name, from station id, to_station_id, gender, birthyear, and tripduration from the da_pronto.trip table
 
 ```
    Select date(starttime), from_station_name, from_station_id, to_station_id, gender, birthyear, tripduration
    From da_pronto.trip
    Where date(starttime) Between '2015-08-01' And '2015-10-31'
 ```  
-  * Export to a CSV file
-* Create a pivot table 
-  * Read the CSV file into an Excel spreadsheet tab
-  * Select the data table and turn it into an Excel table with a range name
-  * Create a pivot table that displays the date and sum and average trip duration for each of those dates
-  * Determine which date has the longest average trip duration
-* Determine which from_stations had the longest rental times 
-  * Modify the pivot table by adding the from_station_id *below* the date in the ROWS area
-    * Move the from_station_id above the data attribute in the ROWS pane to group the pivot table by from_station_id and then date
-  * Add a column of the minimum trip duration to the pivot table
-  * Add a column of the maximum trip duration to the pivot table
-* Determine which station has the rental with the longest trip duration
-* Submit a GitHub link to your spreadsheet
-* Additional learning: play around with adding fields to various panes of the pivot table editor and see the changes that you make to the pivot table 
+
+4. Export to a CSV file
+5. Create a pivot table with the following steps
+6. Read the CSV file into an Excel spreadsheet tab
+7. IN Excel select the data table and give it a range name
+8. Create a pivot table that displays the date and sum and average trip duration for each of those dates
+9. Determine which date has the longest average trip duration
+10. Determine which from_stations had the longest rental times 
+11. Modify the pivot table by adding the from_station_id *below* the date in the ROWS area
+12. Move the from_station_id above the data attribute in the ROWS pane to group the pivot table by from_station_id and then date
+13. Add a column of the minimum trip duration to the pivot table
+14. Add a column of the maximum trip duration to the pivot table
+15. Determine which station has the rental with the longest trip duration
+16. Submit a GitHub link to your spreadsheet
+
+Optional additional learning: play around with adding fields to various panes of the pivot table editor and see the changes that you make to the pivot table 
 <br>
 
 ##### !end-question
