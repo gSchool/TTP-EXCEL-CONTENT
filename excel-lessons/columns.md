@@ -127,7 +127,7 @@ Paste your GitHub link here:
     =IFERROR(RIGHT(C2,LEN(C2)-FIND(",",C2)), "")
     ```
 
-5. Create a new column that if a particular city is in the host_location value
+5. Create a new column that indicates if a particular city is in the host_location value.
 
     * [SEARCH](https://support.office.com/en-us/article/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495)
     
