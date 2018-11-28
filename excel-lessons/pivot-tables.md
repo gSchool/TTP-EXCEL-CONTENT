@@ -200,4 +200,4 @@ Paste your GitHub the link here:
 7. Sort and format the pivot tables so that they're ready to share with a stakeholder.
 
 ## Solutions
-* Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=1o5tJpQQ6mcPWhNaNE4SR5El2FhWCTF9Y) spreadsheet. These are intended for use after the exercises are completed.
+Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=1o5tJpQQ6mcPWhNaNE4SR5El2FhWCTF9Y) spreadsheet. These are intended for use after the exercises are completed.
