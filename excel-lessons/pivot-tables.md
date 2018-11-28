@@ -12,13 +12,13 @@ Excel pivot tables are similar to SQL’s `GROUP BY` statement and Tableau’s t
 
 For example, imagine that you want to know how users interact with the videos on your company’s website. You have data on each user’s age, gender, and the amount of time that they spent watching each video. With this data, you can quickly create a pivot table that displays the average amount of time that users spent watching videos by age, and then rearrange the data to create a second pivot table that displays the average amount of time that users spent watching videos by gender. You can even add filters that allow you to see the averages for a specific video.
 
-## Learning objectives:
+## Learning objectives
 *By the end of this lesson, you will be able to:*
 * Describe what a pivot table is.
 * Describe how split-aggregate-combine logic creates a pivot table.
 * Apply Excel's pivot table capabilities to generate aggregates grouped by distinct values of columns.
 
-## Prework:
+## Prework
 * [Video: pivot tables (13:10)](https://www.youtube.com/watch?v=BkmxrvIfDGA&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=11)
 * [Video: pivot tables made easy with recommended pivot tables (5:16)](https://www.youtube.com/watch?v=ebdgGbsTWs8&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=12)
 
