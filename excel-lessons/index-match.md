@@ -18,8 +18,8 @@ The syntax for `INDEX` and `MATCH` is more complicated to write, but it’s ofte
 * Use `INDEX` and `MATCH` to fetch data.
 
 ## Prework
-* [Video: Excel INDEX MATCH: the basics of INDEX and MATCH for complex Excel lookup problems (11:31)](https://www.youtube.com/watch?v=F264FpBDX28)
-* [Video: Excel INDEX MATCH advanced: look up multiple criteria in rows or columns (10:21)](https://www.youtube.com/watch?v=ontXHp9cwOQ)
+[Video: Excel INDEX MATCH: the basics of INDEX and MATCH for complex Excel lookup problems (11:31)](https://www.youtube.com/watch?v=F264FpBDX28)
+
 
 ## In-class work
 
@@ -118,3 +118,6 @@ Paste your GitHub link here:
 
 ## Solutions
 Example solutions to the exercises in this lesson are available in [this](https://drive.google.com/uc?export=download&id=123ydMxjJGwsYcDa395pFoSH7Q4QLlHHt) spreadsheet. These are intended for use after the exercises are completed.
+
+## Resources
+[Video: Excel INDEX MATCH advanced: look up multiple criteria in rows or columns (10:21)](https://www.youtube.com/watch?v=ontXHp9cwOQ)
