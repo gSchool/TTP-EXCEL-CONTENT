@@ -104,7 +104,7 @@ Continue using the spreadsheet that you finished with in the previous code-along
 
 ##### !question
 
-### Exercise: use LOOKUPs to fetch data from other tables (25 min)
+**Exercise: use LOOKUPs to fetch data from other tables (25 min)**
 
 **Notes:**
 
@@ -132,4 +132,4 @@ Paste your GitHub link here:
 ### !end-challenge
 
 ## Solutions
-* Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=1m2NHeo8Cbm6I1H1ejf6wKfD6AT3y8l5u) spreadsheet. These are intended for use after the exercises are completed.
+Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=1m2NHeo8Cbm6I1H1ejf6wKfD6AT3y8l5u) spreadsheet. These are intended for use after the exercises are completed.
