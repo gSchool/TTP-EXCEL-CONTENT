@@ -18,10 +18,10 @@ With VLOOKUP, the value that you look up must exist in the first *column* of the
 * Apply parameters to alter a LOOKUP.
  
 ## Prework
-* [Introducing LOOKUP Functions (00:30)](https://teamtreehouse.com/library/introducing-lookup-functions)
-* [Using VLOOKUP to Search in a Column (00:30)](https://teamtreehouse.com/library/using-vlookup-to-search-in-a-column)
-* [Using HLOOKUP to Search in a Row (00:30)](https://teamtreehouse.com/library/using-hlookup-to-search-in-a-row)
-* [LOOKUP Tips and Common Errors (00:30)](https://teamtreehouse.com/library/lookup-tips-and-common-errors)
+* [Introducing LOOKUP Functions (1:37)](https://teamtreehouse.com/library/introducing-lookup-functions)
+* [Using VLOOKUP to Search in a Column (6:30)](https://teamtreehouse.com/library/using-vlookup-to-search-in-a-column)
+* [Using HLOOKUP to Search in a Row (1:01)](https://teamtreehouse.com/library/using-hlookup-to-search-in-a-row)
+* [LOOKUP Tips and Common Errors (1:19)](https://teamtreehouse.com/library/lookup-tips-and-common-errors)
 
 ## In-class work
 
