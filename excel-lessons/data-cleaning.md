@@ -9,9 +9,6 @@ Once data analysts import data, the next step is to make it useable for analysis
 * Apply Excel functions to remove extraneous characters
 
 ## Prework
-* [Video: Data Analysis in Excel (9:58)](https://www.youtube.com/watch?v=YqS0x0yshlo&feature=youtu.be)
-* [Video: Formula Auditing Tricks in Excel (4:51)](https://www.youtube.com/watch?v=dCK_LG3Nk6Q&list=PLnVcHd3TXd2qNpfJyfQkwHO70gaZZ79L8&index=3_)
-* [Video: Cleaning up Data with TRIM, PROPER, and Text to Columns (13:49)](https://www.youtube.com/watch?v=x78JR7XHTro)
 * [Video: Data Cleaning in Excel (12:04)](https://www.youtube.com/watch?v=WRk9t5yo5Zs)
 * [Text: Top Ten Ways to Clean Your Data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19) (This is long; it's okay to skim it.)
 
@@ -91,3 +88,8 @@ Work individually.
 
 ## Solutions
 Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0) spreadsheet. These are intended for use after the exercises are completed.
+
+## Resources
+* [Video: Data Analysis in Excel (9:58)](https://www.youtube.com/watch?v=YqS0x0yshlo&feature=youtu.be)
+* [Video: Formula Auditing Tricks in Excel (4:51)](https://www.youtube.com/watch?v=dCK_LG3Nk6Q&list=PLnVcHd3TXd2qNpfJyfQkwHO70gaZZ79L8&index=3_)
+* [Video: Cleaning up Data with TRIM, PROPER, and Text to Columns (13:49)](https://www.youtube.com/watch?v=x78JR7XHTro)
