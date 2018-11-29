@@ -10,7 +10,7 @@ The lessons *LOOKUP* and *INDEX and MATCH* explore Excel functions that are simi
 
 Imagine that you have one table that contains data on the customers who have purchased products from your company and the products that they have purchased. You have a second table that contains data on the location of each customer, which you want to add to your first table. You can do this using `INDEX` and `MATCH`, the topic of this lesson. 
 
-`INDEX and MATCH` performs the same function as LOOKUPs but works better with larger tables (>50,000 rows) or spreadsheets that contain a lot of interdependent logic, since `INDEX` and `MATCH` requires less computation and, therefore, performs faster. 
+`INDEX` and `MATCH` performs the same function as LOOKUPs but works better with larger tables (>50,000 rows) or spreadsheets that contain a lot of interdependent logic, since `INDEX` and `MATCH` requires less computation and, therefore, performs faster. 
 
 ## Learning objectives
 *By the end of this lesson, you will be able to:*
