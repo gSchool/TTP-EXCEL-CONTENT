@@ -2,7 +2,7 @@
 
 At work, data analysts encounter multiple formats of data text files (computer files that only contain numbers and text with no special formatting), which are used to transfer data between databases and analytics tools. Each format of text file has different advantages and disadvantages—for example, some are more human-readable, others are more compatible with the outputs of modern web design—and it’s important to know how to adapt to each. 
 
-This lesson teaches you how to work with the most common types of data text files: comma separated values (CSV) files, JSON files, and Extensible Markup Language (XML) files. 
+This lesson teaches you how to import the most common types of data text files to Excel: comma separated values (CSV) files, JSON files, and Extensible Markup Language (XML) files. 
 
 ## Lesson objectives
 
