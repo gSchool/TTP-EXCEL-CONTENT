@@ -151,8 +151,8 @@ Paste your GitHub link here:
 
 **Instructions:**
 
-1. In a new column, use `FIND` with `LEFT` or `RIGHT` to extract the *numerical* part of the station_id.
-2. In a new column, use `FIND` with `LEFT` or `RIGHT` to extract the *character* part of the station_id.
+1. In a new column, use `FIND` with `LEFT` or `RIGHT` to extract the *numerical* part of the from_station_id.
+2. In a new column, use `FIND` with `LEFT` or `RIGHT` to extract the *character* part of the from_station_id.
 3. Create a new column that indicates whether Occidental is in the to_station_name column in each row.
 4. Optional: Research and use Excel's `IFERROR` function to create a column that shows the starting location of the word "Occidental" or a 0 when Occidental is not in the to_station_name column.
 5. Submit a GitHub link to the spreadsheet in the box below.
