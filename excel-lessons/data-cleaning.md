@@ -16,7 +16,7 @@ Once data analysts import data, the next step is to make it useable for analysis
 
 ### Discuss: data cleaning (5 min)
 
-* Data cleaning is an important; if data has flaws it might be unusable or unable to load, and analysis will be invalid.
+* Data cleaning is important; if data has flaws it might be unusable or unable to load, and analysis will be invalid.
 * Often, the data in a database has already been cleaned enough to work with immediately, but that's not the case with data from other sources.
 * Obtaining and cleaning data for analysis can often take 50-80% of an analyst's time; be sure to allocate enough time for this data cleaning.
 
