@@ -71,7 +71,7 @@ Here’s a second example: imagine that you have a column that includes the city
 
 **Notes:**
 * Create new columns with data extracted from other Excel columns.
-* Use data from the da_airbnb schema.
+* Use data from the da_pronto schema.
 * Work in pairs.
 
 **Instructions:**
