@@ -43,7 +43,7 @@ Use `INDEX` and `MATCH` to add the customer name and city from the customer tabl
 2. In an empty column in the spreadsheet create a formula that uses MATCH to find the location of the purchases table custid in the customer table.  
 3. In another column create a formula using INDEX that references the Match cell to retrieve the customer name.
 4. In another column create a single formula using the INDEX and MATCH logic that also returns the customer name.
-5. In another column modify the combined formula to retrieve the customers  city 
+5. In another column modify the combined formula to retrieve the customer's city 
 
 ### !challenge
 
