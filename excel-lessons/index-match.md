@@ -39,9 +39,9 @@ Video: [how to use Excel INDEX MATCH (the right way)](https://www.youtube.com/wa
 **Instructions:**
 Use `INDEX` and `MATCH` to add the customer name and city from the customer table to each row of the purchases table.
 
-1. Open a new Excel workbook and import the purchases.csv file and the customers.csv file into the same spreadsheet so that they are both visible.
-2. In an empty column in the spreadsheet create a formula that uses MATCH to find the location of the purchases table custid in the customer table.  
-3. In another column create a formula using INDEX that references the Match cell to retrieve the customer name.
+1. Open a new Excel workbook and import the purchases.csv file and the customers.csv file into the same worksheet so that they are both visible.
+2. In an empty column in the spreadsheet create a formula that uses MATCH to find the location of the purchases table custid in the customers table.  
+3. In another column create a formula using INDEX that references the MATCH cell to retrieve the customer name.
 4. In another column create a single formula using the INDEX and MATCH logic that also returns the customer name.
 5. In another column modify the combined formula to retrieve the customer's city 
 
@@ -87,8 +87,11 @@ Paste your GitHub link here:
 
 **Instructions:**
 
-1. Import the products_horz.csv file into a new tab.
-2. Use `INDEX` and `MATCH` to add the product name and price to each record in the purchases table.
+1. Open a new Excel tab and import the [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW) file and the [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney) file into the same worksheet so that they are both visible.
+2. In an empty column in the spreadsheet create a formula that uses MATCH to find the location of the purchases table prodid in the products table.  
+3. In another column create a formula using INDEX that references the MATCH cell to retrieve the product name.
+4. In another column create a single formula using the INDEX and MATCH logic that also returns the product name.
+5. In another column modify the combined formula to retrieve the product's price 
     
 ### !challenge
 
