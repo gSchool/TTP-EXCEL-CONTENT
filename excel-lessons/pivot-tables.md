@@ -36,7 +36,7 @@ For example, imagine that you want to know how users interact with the videos on
 * Use data from the da_readychef schema.
 * Work in pairs.
 
-** Instructions:**
+**Instructions:**
 
 1. Extract data from the da_readychef schema.
 2. Explain this SQL code to your partner:
