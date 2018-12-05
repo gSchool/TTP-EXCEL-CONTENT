@@ -125,7 +125,7 @@ Paste your GitHub link here:
 ### !end-challenge
 
 ## Solutions
-Example solutions to the exercises in this lesson are available in [this](https://drive.google.com/uc?export=download&id=1I5THzik_mmM8ISn7HKi_zj58mAgvVdny) spreadsheet. These are intended for use after the exercises are completed.
+Example solutions to the exercises in this lesson are available in [this](https://drive.google.com/uc?export=download&id=1_wng2adQL5kCO8bZjJg13HWISiJbkpU3) spreadsheet. These are intended for use after the exercises are completed.
 
 ## Resources
 Video: [Excel INDEX MATCH advanced: look up multiple criteria in rows or columns](https://www.youtube.com/watch?v=ontXHp9cwOQ) (10:21)
