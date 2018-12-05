@@ -132,4 +132,4 @@ Paste your GitHub link here:
 ### !end-challenge
 
 ## Solutions
-Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=1m2NHeo8Cbm6I1H1ejf6wKfD6AT3y8l5u) spreadsheet. These are intended for use after the exercises are completed.
+Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=1I5THzik_mmM8ISn7HKi_zj58mAgvVdny) spreadsheet. These are intended for use after the exercises are completed.
