@@ -15,7 +15,7 @@ For example, imagine that you want to know how users interact with the videos on
 ## Learning objectives
 *By the end of this lesson, you will be able to:*
 * Describe what a pivot table is.
-* Describe how split-aggregate-combine logic creates a pivot table.
+* Describe how the pivot table's logic is simialr to SQL's aggregates with GROUP BY.
 * Apply Excel's pivot table capabilities to generate aggregates grouped by distinct values of columns.
 
 ## Prework
@@ -26,8 +26,7 @@ For example, imagine that you want to know how users interact with the videos on
 
 ### Discuss: overview of pivot tables (20 min)
 * Discuss the purpose, importance, and structure of pivot tables.
-* Share how pivot tables are Excel's method for creating aggregates grouped by distinct column values.
-    * [Pivot tables - split apply combine in Excel](https://www.safaribooksonline.com/library/view/learning-pandas/9781783985128/graphics/5128OS_09_01.jpg).
+* Share how pivot tables are Excel's method for calculating aggregates grouped by distinct column values.
 * Review Excel's pivot table capabilities and limitations. ([Here](https://support.office.com/en-us/article/overview-of-pivottables-and-pivotcharts-527c8fa3-02c0-445a-a2db-7794676bce96)'s a good source of information.)
 
 ### Code-along: export data from a database using pgAdmin (10 min)
