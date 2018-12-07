@@ -137,8 +137,8 @@ Continue using the spreadsheet from the previous code-along.
 1. Demonstrate that pivot tables don't auto update.
 2. Demonstrate how to manually trigger an update.
 3. Format pivot tables to make them easier to interpret.
-4. Sort the columns in the pivot tables (primary and secondary sorts) including a sort of trip duration.
-    * Note that the sort is a sort of the trip duration values within the grouping defined by the ROW field values.
+4. Sort the columns in the pivot tables (primary and secondary sorts) including a sort of a pivot table aggregate column.
+    * Note that the sort of an aggregate pivot table field sorts within the group bys defined by the ROW field values.
 5. Add subtotals and grand totals.
 6. Add filters for a couple of dimensions in the pivot table.
     * Add a filter for the meal type in the pivot table's FILTER area.
