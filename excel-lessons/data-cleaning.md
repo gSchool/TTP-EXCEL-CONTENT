@@ -4,13 +4,13 @@ Once data analysts import data, the next step is to make it useable for analysis
 
 ## Learning objectives
 *By the end of this lesson, you will be able to:*
-* Communicate why data cleaning is important
-* List 5 techniques that you can use to fix numbers, dates, and text 
-* Apply Excel functions to remove extraneous characters
+* Communicate why data cleaning is important.
+* List 5 techniques that you can use to fix numbers, dates, and text .
+* Apply Excel functions to remove extraneous characters.
 
 ## Prework
-* [Video: Data Cleaning in Excel (12:04)](https://www.youtube.com/watch?v=WRk9t5yo5Zs)
-* [Text: Top Ten Ways to Clean Your Data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19) (This is long; it's okay to skim it.)
+* [Video: Data Cleaning in Excel](https://www.youtube.com/watch?v=WRk9t5yo5Zs).
+* [Text: Top Ten Ways to Clean Your Data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19). (This is long; it's okay to skim it.)
 
 ## In-class work
 
@@ -24,7 +24,7 @@ Once data analysts import data, the next step is to make it useable for analysis
 
 **Notes:**
 
-Use the [data_cleaning_demo.xlsx](https://drive.google.com/uc?export=download&id=10PFvbBtuSEVSmt0RmyfuzMbAERBkVY42) spreadsheet.
+* Use the [data_cleaning_demo.xlsx](https://drive.google.com/uc?export=download&id=10PFvbBtuSEVSmt0RmyfuzMbAERBkVY42) spreadsheet.
 
 **Instructions:**
 
@@ -57,7 +57,7 @@ Use the [data_cleaning_demo.xlsx](https://drive.google.com/uc?export=download&id
 
 1. In the Area column, fill in the blank cells with the appropriate area name.
 2. In a new column create a formula that...
-    *  Removes leading and trailing blanks in the Street column (column C),
+    *  Removes leading and trailing blanks in the Street column (column C).
     *  Replaces the odd characters with blanks.
 3. In a new column, create a formula using [PROPER](https://support.office.com/en-us/article/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94?ui=en-US&rs=en-US&ad=US) to capitalize each word of the Street 2 column.
 4. In a new column, create a formula that combines the logic from the previous two steps into one formula.
@@ -90,6 +90,6 @@ Work individually.
 Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0) spreadsheet. These are intended for use after the exercises are completed.
 
 ## Resources
-* [Video: Data Analysis in Excel (9:58)](https://www.youtube.com/watch?v=YqS0x0yshlo&feature=youtu.be)
-* [Video: Formula Auditing Tricks in Excel (4:51)](https://www.youtube.com/watch?v=dCK_LG3Nk6Q&list=PLnVcHd3TXd2qNpfJyfQkwHO70gaZZ79L8&index=3_)
-* [Video: Cleaning up Data with TRIM, PROPER, and Text to Columns (13:49)](https://www.youtube.com/watch?v=x78JR7XHTro)
+* [Video: Data Analysis in Excel](https://www.youtube.com/watch?v=YqS0x0yshlo&feature=youtu.be).
+* [Video: Formula Auditing Tricks in Excel](https://www.youtube.com/watch?v=dCK_LG3Nk6Q&list=PLnVcHd3TXd2qNpfJyfQkwHO70gaZZ79L8&index=3_).
+* [Video: Cleaning up Data with TRIM, PROPER, and Text to Columns](https://www.youtube.com/watch?v=x78JR7XHTro).
