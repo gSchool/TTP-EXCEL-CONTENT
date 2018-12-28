@@ -8,14 +8,14 @@ Here’s a second example: imagine that you have a column that includes the city
 
 ## Learning objectives
 *By the end of this lesson, you will be able to:*
-* Engineer new columns from existing columns
-* Extract substrings from strings
-* Create date parts such as quarter, month, and week
+* Engineer new columns from existing columns.
+* Extract substrings from strings.
+* Create date parts such as quarter, month, and week.
 
 ## Prework
-* [Video: Excel Formulas and Functions (4:04)](https://www.youtube.com/watch?v=moF8Zy9Fe7E)
-* [Video: How to Split Date and Time in Excel (3:15)](https://www.youtube.com/watch?v=-V2W8l8b4bA)
-* [Video: How to Convert Dates in Excel into Year, Month, or Day Using the Text Formula (3:48)](https://www.youtube.com/watch?v=yPkFF3eYVkQ)
+* [Video: Excel Formulas and Functions](https://www.youtube.com/watch?v=moF8Zy9Fe7E).
+* [Video: How to Split Date and Time in Excel](https://www.youtube.com/watch?v=-V2W8l8b4bA).
+* [Video: How to Convert Dates in Excel into Year, Month, or Day Using the Text Formula](https://www.youtube.com/watch?v=yPkFF3eYVkQ).
 
 ## In-class work                     
 
@@ -70,6 +70,7 @@ Here’s a second example: imagine that you have a column that includes the city
 **Exercise: extract left, right, and middle parts of text (15 min)**
 
 **Notes:**
+
 * Create new columns with data extracted from other Excel columns.
 * Use data from the da_pronto schema.
 * Work in pairs.
@@ -94,6 +95,7 @@ Paste your GitHub link here:
 ### Code-along: extract text parts from text cells (15 min)
 
 **Notes:**
+
 * Create new columns that contain text extracted from existing columns.
 * Continue using the Excel Airbnb workbook from the previous code-along.
 
@@ -169,6 +171,7 @@ Paste your GitHub link here:
 ### Code-along: create date part columns (20 min)
 
 **Notes:**
+
 * Create new columns that contain date parts of an existing column.
 * Continue using the Excel Airbnb workbook from the previous code-along.
 
@@ -238,6 +241,7 @@ Paste your GitHub link here:
 ##### !end-question
 
 ##### !placeholder
+
 Paste your GitHub link here:
 
 ##### !end-placeholder
