@@ -18,33 +18,32 @@ While most people are comfortable with the basic functions of Excel, not everyon
 Popular as it is, Excel does have some limitations, which is why technologies like Tableau and [Power BI](https://powerbi.microsoft.com/en-us/get-started/?&OCID=AID719832_SEM_bHb24t0B&lnkd=Google_PowerBI_Brand&gclid=EAIaIQobChMI9MyU9rqd3gIVCdNkCh0utwIsEAAYASAAEgJk-_D_BwE) (Microsoft’s version of Tableau) exist. Here are a few reasons to use *or not use* Excel: 
 
 **Excel pros:**
-* Excel is used by most organizations
-* It’s fast and easy to use when analyzing moderate-size datasets or when you only need a pivot table
-* Most people, even non-analysts, feel comfortable using Excel
-* Users are able to view the data in more detail
+* Excel is used by most organizations.
+* It’s fast and easy to use when analyzing moderate-size datasets or when you only need a pivot table.
+* Most people, even non-analysts, feel comfortable using Excel.
+* Users are able to view the data in more detail.
 
 **Excel cons:** 
-* Sharing Excel analysis requires manual effort
-* Excel’s visualization capabilities are limited
-* It’s faster to create visualizations using tools like Tableau, since they don’t require you to create a proper table for each visualization 
-* Excel is not a great tool for large datasets
+* Sharing Excel analysis requires manual effort.
+* Excel’s visualization capabilities are limited.
+* It’s faster to create visualizations using tools like Tableau, since they don’t require you to create a proper table for each visualization .
+* Excel is not a great tool for large datasets.
 
 It’s also useful to know that there are other tool like Excel available; Google Sheets, for example. Everything that you can do in Excel you can also do in Google Sheets. This course teaches Excel because it’s the more-popular and widely used tool, but everything that you learn is transferable to Google Sheets.
 
 ## By the end of this block, you will be able to:
-* Load various types of data files into Excel
-* Clean and prepare data with Excel
-* Analyze data with Excel
+* Load various types of data files into Excel.
+* Clean and prepare data with Excel.
+* Analyze data with Excel.
 
 ## Prework
-* [Introducing Microsoft Excel (00:30)](https://teamtreehouse.com/library/why-microsoft-excel)
-* [Microsoft Excel on Macs (00:30)](https://teamtreehouse.com/library/microsoft-excel-on-macs)
-* [Microsoft Excel on Windows (00:30)](https://teamtreehouse.com/library/microsoft-excel-on-windows)
+* Video: [Introducing Microsoft Excel](https://teamtreehouse.com/library/why-microsoft-excel).
+* Video: [Microsoft Excel on Macs](https://teamtreehouse.com/library/microsoft-excel-on-macs) or [Microsoft Excel on Windows](https://teamtreehouse.com/library/microsoft-excel-on-windows).
 
 ## Block lessons
-1. [Data importing](../excel-lessons/data-importing.md)
-2. [Data cleaning](../excel-lessons/data-cleaning.md)
-3. [Columns](../excel-lessons/columns.md)
-4. [LOOKUP](../excel-lessons/lookups.md)
-5. [INDEX and MATCH](../excel-lessons/index-match.md)
-6. [Pivot tables](../excel-lessons/pivot-tables.md)
+1. [Data importing](../excel-lessons/data-importing.md).
+2. [Data cleaning](../excel-lessons/data-cleaning.md).
+3. [Columns](../excel-lessons/columns.md).
+4. [LOOKUP](../excel-lessons/lookups.md).
+5. [INDEX and MATCH](../excel-lessons/index-match.md).
+6. [Pivot tables](../excel-lessons/pivot-tables.md).
