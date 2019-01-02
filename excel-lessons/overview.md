@@ -41,7 +41,7 @@ It’s also useful to know that there are other tool like Excel available; Googl
 * Video: [Microsoft Excel on Macs](https://teamtreehouse.com/library/microsoft-excel-on-macs) or [Microsoft Excel on Windows](https://teamtreehouse.com/library/microsoft-excel-on-windows).
 
 ## Block lessons
-1. [Data importing](../excel-lessons/data-importing.md).
+1. [Importing data (Excel)](../excel-lessons/data-importing.md).
 2. [Data cleaning](../excel-lessons/data-cleaning.md).
 3. [Columns](../excel-lessons/columns.md).
 4. [LOOKUP](../excel-lessons/lookups.md).
