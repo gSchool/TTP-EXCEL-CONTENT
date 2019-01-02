@@ -18,10 +18,10 @@ With VLOOKUP, the value that you look up must exist in the first *column* of the
 * Apply parameters to alter a LOOKUP.
  
 ## Prework
-* Video: [introducing LOOKUP functions (1:37)](https://teamtreehouse.com/library/introducing-lookup-functions)
-* Video: [using VLOOKUP to search in a column (6:30)](https://teamtreehouse.com/library/using-vlookup-to-search-in-a-column)
-* Video: [using HLOOKUP to search in a row (1:01)](https://teamtreehouse.com/library/using-hlookup-to-search-in-a-row)
-* Video: [LOOKUP tips and common errors (1:19)](https://teamtreehouse.com/library/lookup-tips-and-common-errors)
+* Video: [introducing LOOKUP functions](https://teamtreehouse.com/library/introducing-lookup-functions).
+* Video: [using VLOOKUP to search in a column](https://teamtreehouse.com/library/using-vlookup-to-search-in-a-column).
+* Video: [using HLOOKUP to search in a row](https://teamtreehouse.com/library/using-hlookup-to-search-in-a-row).
+* Video: [LOOKUP tips and common errors](https://teamtreehouse.com/library/lookup-tips-and-common-errors).
 
 ## In-class work
 
@@ -38,8 +38,8 @@ With VLOOKUP, the value that you look up must exist in the first *column* of the
 
 * Use LOOKUPs to join data from different Excel tables (a very limited type of join).
 * Use these three "sales" CSV files:
-    * [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW), 
-    * [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez),
+    * [purchases.csv](https://drive.google.com/uc?export=download&id=1Nxvo7RzIfWELSglbDKOb1eVASXBvKgEW). 
+    * [customers.csv](https://drive.google.com/uc?export=download&id=1_69gMSjnx7owplIVzKu1SGdNLdNmXGez).
     * [products_horz.csv](https://drive.google.com/uc?export=download&id=1Hj1LauM6mS9qM-cbIydTgXs_Acu-iney).
 
 **Instructions:**
@@ -62,7 +62,7 @@ With VLOOKUP, the value that you look up must exist in the first *column* of the
 **Notes:**
 
 * Work in pairs.
-* Use the TCP-H Benchmark data set;
+* Use the TCP-H Benchmark data set.
     * Download and unzip [this](https://drive.google.com/uc?export=download&id=1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3) file containing the TCP-H tables. Alternately, download the files individually [here](https://drive.google.com/uc?export=download&id=1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl).
 * [TCP-H data Schema diagram](https://drive.google.com/uc?export=download&id=150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI).
 
