@@ -24,7 +24,7 @@ Once data analysts import data, the next step is to make it useable for analysis
 
 **Notes:**
 
-* Use the [data_cleaning_demo.xlsx](https://drive.google.com/uc?export=download&id=10PFvbBtuSEVSmt0RmyfuzMbAERBkVY42) spreadsheet.
+Use the [data_cleaning_demo.xlsx](https://drive.google.com/uc?export=download&id=10PFvbBtuSEVSmt0RmyfuzMbAERBkVY42) spreadsheet.
 
 **Instructions:**
 
