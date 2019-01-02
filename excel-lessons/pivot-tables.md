@@ -19,8 +19,8 @@ For example, imagine that you want to know how users interact with the videos on
 * Apply Excel's pivot table capabilities to generate aggregates grouped by distinct values of columns.
 
 ## Prework
-* [Video: pivot tables (13:10)](https://www.youtube.com/watch?v=BkmxrvIfDGA&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=11)
-* [Video: pivot tables made easy with recommended pivot tables (5:16)](https://www.youtube.com/watch?v=ebdgGbsTWs8&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=12)
+* [Video: pivot tables](https://www.youtube.com/watch?v=BkmxrvIfDGA&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=11).
+* [Video: pivot tables made easy with recommended pivot tables](https://www.youtube.com/watch?v=ebdgGbsTWs8&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=12).
 
 ## In-class work
 
@@ -100,20 +100,19 @@ For example, imagine that you want to know how users interact with the videos on
    Where date(starttime) Between '2015-08-01' And '2015-10-31'
 ```  
 
-4. Export this data to a CSV file.
-5. Read the CSV file into an Excel spreadsheet tab.
-6. In Excel, select the data table and give it a range name.
-7. Create a pivot table that displays the date, and the sum and average trip duration for each of those dates.
-8. Determine which date has the longest average trip duration.
-9. Determine which from_stations have the longest rental times. 
-10. Modify the pivot table by adding the from_station_id *below* the date in the ROWS area.
-11. Move the from_station_id above the data attribute in the ROWS pane to group the pivot table by from_station_id and then date.
-12. Add a column of the _minimum_ trip duration to the pivot table.
-13. Add a column of the _maximum_ trip duration to the pivot table.
-14. Determine which station has the rental with the longest trip duration.
-15. Submit a GitHub link to the spreadsheet in the box below.
-
-Optional additional learning: play around with adding fields to various panes of the pivot table editor and see the changes that you make to the pivot table.
+3. Export this data to a CSV file.
+4. Read the CSV file into an Excel spreadsheet tab.
+5. In Excel, select the data table and give it a range name.
+6. Create a pivot table that displays the date, and the sum and average trip duration for each of those dates.
+7. Determine which date has the longest average trip duration.
+8. Determine which from_stations have the longest rental times. 
+9. Modify the pivot table by adding the from_station_id *below* the date in the ROWS area.
+10. Move the from_station_id above the data attribute in the ROWS pane to group the pivot table by from_station_id and then date.
+11. Add a column of the _minimum_ trip duration to the pivot table.
+12. Add a column of the _maximum_ trip duration to the pivot table.
+13. Determine which station has the rental with the longest trip duration.
+14. Submit a GitHub link to the spreadsheet in the box below.
+15. Optional: play around with adding fields to various panes of the pivot table editor and see the changes that you make to the pivot table.
 
 ##### !end-question
 
@@ -186,7 +185,7 @@ Paste your GitHub the link here:
 **Notes:**
 
 * Work individually.
-* Create pivot table analysis from data extracted from database data:
+* Create pivot table analysis from data extracted from database data.
 
 **Instructions:**
 
