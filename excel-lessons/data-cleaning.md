@@ -9,8 +9,8 @@ Once data analysts import data, the next step is to make it useable for analysis
 * Apply Excel functions to remove extraneous characters.
 
 ## Prework
-* [Video: Data Cleaning in Excel](https://www.youtube.com/watch?v=WRk9t5yo5Zs).
-* [Text: Top Ten Ways to Clean Your Data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19). (This is long; it's okay to skim it.)
+* Video: [data cleaning with Excel](https://www.youtube.com/watch?v=WRk9t5yo5Zs).
+* Text: [top ten ways to clean your data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19). (This is long; it's okay to skim it.)
 
 ## In-class work
 
@@ -50,7 +50,7 @@ Use the [data_cleaning_demo.xlsx](https://drive.google.com/uc?export=download&id
 
 **Notes:**
 
-* Use the [EXAMPLE_DataToClean](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0) spreadsheet.
+* Use the [Solution_DataToClean-Kaggle](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0) spreadsheet.
 * Work in pairs.
 
 **Instructions:**
@@ -81,7 +81,7 @@ Work individually.
 
 **Instructions:**
 
-1. Search the web for a different data cleaning function. (Feel free to refer to the post [top ten ways to clean your data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19).) (10 mins) 
+1. Search the web for a different data cleaning function. (Feel free to refer to the post "[Top Ten Ways to Clean Your Data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19).") (10 mins) 
     * Find the best description and examples of using that function.
     * Paste a link of your findings in the class Slack channel.
 2. Present your findings with your classmates. (15 min)
@@ -90,6 +90,6 @@ Work individually.
 Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0) spreadsheet. These are intended for use after the exercises are completed.
 
 ## Resources
-* [Video: Data Analysis in Excel](https://www.youtube.com/watch?v=YqS0x0yshlo&feature=youtu.be).
-* [Video: Formula Auditing Tricks in Excel](https://www.youtube.com/watch?v=dCK_LG3Nk6Q&list=PLnVcHd3TXd2qNpfJyfQkwHO70gaZZ79L8&index=3_).
-* [Video: Cleaning up Data with TRIM, PROPER, and Text to Columns](https://www.youtube.com/watch?v=x78JR7XHTro).
+* Video: [top 10: advanced Excel tips 2018](https://www.youtube.com/watch?v=YqS0x0yshlo&feature=youtu.be).
+* Video: [formula auditing tricks in Excel](https://www.youtube.com/watch?v=dCK_LG3Nk6Q&list=PLnVcHd3TXd2qNpfJyfQkwHO70gaZZ79L8&index=3_).
+* Video: [cleaning up data with TRIM, PROPER, and Text to Columns](https://www.youtube.com/watch?v=x78JR7XHTro).
