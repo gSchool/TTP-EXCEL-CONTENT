@@ -113,7 +113,7 @@ Continue using the spreadsheet that you finished with in the previous code-along
 
 **Instructions:**
 
-1. Refer to the [TCP-H data Schema diagram](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing) to determine connections between the tables.
+1. Refer to the [TCP-H_Schema](https://drive.google.com/file/d/150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI/view?usp=sharing) diagram to determine connections between the tables.
 2. Add the country and region of the customer to each row of the orders table; to do this...
     * Import the nation.csv file into an Excel tab (worksheet). (See the previous exercise for the location of the nation.csv file.)
     * Import the [region_horz.csv](https://drive.google.com/open?id=1d7TUbr475M_9HNiKcGUcOsMPKeklwrbj) file into an Excel tab.
