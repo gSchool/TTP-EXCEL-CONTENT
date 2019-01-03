@@ -19,8 +19,8 @@ For example, imagine that you want to know how users interact with the videos on
 * Apply Excel's pivot table capabilities to generate aggregates grouped by distinct values of columns.
 
 ## Prework
-* [Video: pivot tables](https://www.youtube.com/watch?v=BkmxrvIfDGA&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=11).
-* [Video: pivot tables made easy with recommended pivot tables](https://www.youtube.com/watch?v=ebdgGbsTWs8&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=12).
+* Video: [advanced Excel - creating pivot tables in Excel tutorial 2018](https://www.youtube.com/watch?v=BkmxrvIfDGA&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=11).
+* Video: [advanced Excel - using "recommended pivot tables"](https://www.youtube.com/watch?v=ebdgGbsTWs8&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=12).
 
 ## In-class work
 
