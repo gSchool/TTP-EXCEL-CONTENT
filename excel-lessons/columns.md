@@ -13,9 +13,9 @@ Here’s a second example: imagine that you have a column that includes the city
 * Create date parts such as quarter, month, and week.
 
 ## Prework
-* [Video: Excel Formulas and Functions](https://www.youtube.com/watch?v=moF8Zy9Fe7E).
-* [Video: How to Split Date and Time in Excel](https://www.youtube.com/watch?v=-V2W8l8b4bA).
-* [Video: How to Convert Dates in Excel into Year, Month, or Day Using the Text Formula](https://www.youtube.com/watch?v=yPkFF3eYVkQ).
+* Video: [Excel formulas and functions - LEFT, RIGHT, MID, LEN](https://www.youtube.com/watch?v=moF8Zy9Fe7E).
+* Video: [how to split date and time in Excel](https://www.youtube.com/watch?v=-V2W8l8b4bA).
+* Video: [how to convert dates in Excel into year, month, or day using the Text Formula](https://www.youtube.com/watch?v=yPkFF3eYVkQ).
 
 ## In-class work                     
 
@@ -187,7 +187,7 @@ Paste your GitHub link here:
     ```
 
 2. Download and import the data into an new Excel tab.
-3. Review documentation for [Excel date functions](https://support.office.com/en-us/article/date-and-time-functions-reference-fd1b5961-c1ae-4677-be58-074152f97b81).
+3. Review documentation for [date and time functions](https://support.office.com/en-us/article/date-and-time-functions-reference-fd1b5961-c1ae-4677-be58-074152f97b81).
 4. Create a new column that contains the day from the date column.
 
     ```Excel
