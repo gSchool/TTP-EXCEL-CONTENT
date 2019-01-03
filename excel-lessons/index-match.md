@@ -128,4 +128,4 @@ Paste your GitHub link here:
 Example solutions to the exercises in this lesson are available in [this](https://drive.google.com/uc?export=download&id=1_wng2adQL5kCO8bZjJg13HWISiJbkpU3) spreadsheet. These are intended for use after the exercises are completed.
 
 ## Resources
-Video: [Excel INDEX MATCH advanced: look up multiple criteria in rows or columns](https://www.youtube.com/watch?v=ontXHp9cwOQ).
+Video: [advanced Excel Index Match (3 most effective formulas for multiple criteria)](https://www.youtube.com/watch?v=ontXHp9cwOQ).
