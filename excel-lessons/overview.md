@@ -37,7 +37,7 @@ It’s also useful to know that there are other tool like Excel available; Googl
 * Analyze data with Excel.
 
 ## Prework
-* Video: [Introducing Microsoft Excel](https://teamtreehouse.com/library/why-microsoft-excel).
+* Video: [Introducing Microsoft Excel: why Microsoft Excel?](https://teamtreehouse.com/library/why-microsoft-excel).
 * Video: [Microsoft Excel on Macs](https://teamtreehouse.com/library/microsoft-excel-on-macs) or [Microsoft Excel on Windows](https://teamtreehouse.com/library/microsoft-excel-on-windows).
 
 ## Block lessons
