@@ -14,8 +14,8 @@ This lesson teaches you how to import the most common types of data text files t
 ## Prework
 * If you don't have a version of Excel 2013 or newer on your laptop, install a recent version of Excel. (The Home and Student version of Microsoft Office is sufficient.)
     * Ensure that you're installing the laptop version and not the Office 356 version (cloud only).
-* [Video: adding data to a spreadsheet](https://teamtreehouse.com/library/adding-data-to-a-spreadsheet).
-* [Text: CSV vs XML vs JSON – Which is the best response data format?](https://applerepairstation.co.uk/csv-vs-xml-vs-json-which-is-the-best-response-data-format/).
+* Video: [adding data to a spreadsheet](https://teamtreehouse.com/library/adding-data-to-a-spreadsheet).
+* Text: [CSV vs XML vs JSON – which is the best response data format?](https://applerepairstation.co.uk/csv-vs-xml-vs-json-which-is-the-best-response-data-format/).
 
 ## In-class work
 
@@ -64,8 +64,8 @@ Download the files [products.csv](https://s3-us-west-2.amazonaws.com/learn-asset
 1. Import a new file using Data > From Text functionality.
 2. Download these Pronto files:
     * [2015_trip_data.csv](https://drive.google.com/uc?export=download&id=1O56RgQLiOM86uH1rUizypgfzR8h1lYKI).
-    * [station.csv](https://drive.google.com/uc?export=download&id=1pozO2ne6Q8SJJ0olimZqg_-xUUq08V09).
-    * [weather.csv](https://drive.google.com/uc?export=download&id=1_M91l3njt9PIPurfIKz_sCVnzfwEenDy).
+    * [Station.csv](https://drive.google.com/uc?export=download&id=1pozO2ne6Q8SJJ0olimZqg_-xUUq08V09).
+    * [Weather.csv](https://drive.google.com/uc?export=download&id=1_M91l3njt9PIPurfIKz_sCVnzfwEenDy).
 3. Import the 2015_trip_data.csv file into a new tab (worksheet) in Excel.
 4. Import the station.csv file into a new tab in Excel.
 5. Import the weather.csv file into a new tab in Excel.
@@ -108,12 +108,12 @@ Paste your GitHub link here:
 
 **Notes:**
 
-* Import the [cars.json data](https://think.cs.vt.edu/corgis/json/cars/cars.html) data into Excel. 
+* Import the [cars.json](https://think.cs.vt.edu/corgis/json/cars/cars.html) data into Excel. 
 * Work in pairs.
 
 **Instructions:**
 
-1. Download the [cars.json data](https://think.cs.vt.edu/corgis/json/cars/cars.html) JSON file.
+1. Download the [cars.json](https://think.cs.vt.edu/corgis/json/cars/cars.html) data JSON file.
 2. Convert the file to a CSV or other delimited file.
 3. Load data from the resulting CSV or delimited file into an Excel worksheet tab.
 4. For optional learning: 
