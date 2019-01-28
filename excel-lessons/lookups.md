@@ -63,7 +63,7 @@ With VLOOKUP, the value that you look up must exist in the first *column* of the
 
 * Work in pairs.
 * Use the TCP-H Benchmark data set.
-    * Download and unzip [this](https://drive.google.com/uc?export=download&id=1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3) file containing the TCP-H tables. Alternately, download the files individually [here](https://drive.google.com/uc?export=download&id=1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl).
+    * Download and unzip [this](https://drive.google.com/uc?export=download&id=1rvKe9g7IU7MXVYQMKTy9ulYY-J60-an3) file containing the TCP-H tables. Alternately, download the files individually [here](https://drive.google.com/open?id=1dwWXz3uoB_JVc0lcJXaDDU6nyt9v5aEl).
 * [TCP-H data Schema diagram](https://drive.google.com/uc?export=download&id=150VWoQ2ZmqrOr2VZsA-EMtX9VJWDiXDI).
 
 **Instructions:**
