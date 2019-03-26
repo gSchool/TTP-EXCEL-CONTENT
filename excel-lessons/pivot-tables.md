@@ -15,7 +15,7 @@ For example, imagine that you want to know how users interact with the videos on
 ## Learning objectives
 *By the end of this lesson, you will be able to:*
 * Describe what a pivot table is.
-* Describe how the pivot table's logic is simialr to SQL's aggregates with GROUP BY.
+* Describe how the pivot table's logic is similar to SQL's aggregates with GROUP BY.
 * Apply Excel's pivot table capabilities to generate aggregates grouped by distinct values of columns.
 
 ## Prework
