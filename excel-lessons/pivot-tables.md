@@ -141,7 +141,7 @@ Continue using the spreadsheet from the previous code-along.
 5. Add subtotals and grand totals.
 6. Add filters for a couple of dimensions in the pivot table.
     * Add a filter for the meal type in the pivot table's FILTER area.
-    * Show that a filter can be either in the FILTERS area or in ROWS or COLUMNS, but not both.
+    * Show that an attribute (field) can be either in the FILTERS area or in ROWS or COLUMNS, but not both.
     * For an attribute in ROWS or COLUMNS, use the filter drop-down in the pivot table location.
 8. Show that row and column names, such a "Row Labels," can be manually changed to make it easier for the user to interpret. 
 
