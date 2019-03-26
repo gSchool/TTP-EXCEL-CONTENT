@@ -27,7 +27,7 @@ For example, imagine that you want to know how users interact with the videos on
 ### Discuss: overview of pivot tables (20 min)
 * Discuss the purpose, importance, and structure of pivot tables.
 * Share how pivot tables are Excel's method for calculating aggregates grouped by distinct column values.
-* Review Excel's pivot table capabilities and limitations. ([Here](https://support.office.com/en-us/article/overview-of-pivottables-and-pivotcharts-527c8fa3-02c0-445a-a2db-7794676bce96)'s a good source of information.)
+* Review Excel's pivot table capabilities and limitations. ([Here's](https://support.office.com/en-us/article/overview-of-pivottables-and-pivotcharts-527c8fa3-02c0-445a-a2db-7794676bce96) a good source of information.)
 
 ### Code-along: export data from a database using pgAdmin (10 min)
 
