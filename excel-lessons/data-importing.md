@@ -14,8 +14,8 @@ This lesson teaches you how to import the most common types of data text files t
 ## Prework
 * If you don't have a version of Excel 2013 or newer on your laptop, install a recent version of Excel. (The Home and Student version of Microsoft Office is sufficient.)
     * Ensure that you're installing the laptop version and not the Office 356 version (cloud only).
-* Video: [adding data to a spreadsheet](https://teamtreehouse.com/library/adding-data-to-a-spreadsheet).
 * Text: [CSV vs XML vs JSON – which is the best response data format?](https://applerepairstation.co.uk/csv-vs-xml-vs-json-which-is-the-best-response-data-format/).
+* Video: [how to best import external data into Excel, and import data from the web to Excel](). 
 
 ## In-class work
 
