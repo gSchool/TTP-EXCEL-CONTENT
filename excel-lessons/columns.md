@@ -17,6 +17,8 @@ Here’s a second example: imagine that you have a column that includes the city
 * Video: [how to split date and time in Excel](https://www.youtube.com/watch?v=-V2W8l8b4bA).
 * Video: [how to convert dates in Excel into year, month, or day using the Text Formula](https://www.youtube.com/watch?v=yPkFF3eYVkQ).
 
+---
+
 ## In-class work                     
 
 ### Code-along: extract leading and trailing substrings (15 min)
@@ -248,8 +250,13 @@ Paste your GitHub link here:
 
 ### !end-challenge
 
+---
+
 ## Solutions
 These solutions are intended for use after the exercises are completed:
 * Solutions to the code-alongs in this lesson are available in the [columns_codealongs.xlsx](https://drive.google.com/uc?export=download&id=15ba5zPqGaBaMdHei7Bm6FIqa7Tn2qyE6) spreadsheet.
 * Example exercise solutions for text extraction exercises are in the [columns_pronto_exercises - Solutions.xlsx](https://drive.google.com/uc?export=download&id=1OiHUrfdPGHpCMpBqW0NA93B_Fk1qnjFv) spreadsheet.
 * Example exercise solutions for date part extraction exercises are in the [datepart_exercise - Solutions.xlsx](https://drive.google.com/uc?export=download&id=1YsvPUz44vGBEl54I7gdKYFEOskZJWkoe).
+
+## Postwork
+* Using the data for your capstone project, practice engineering new columns from existing columns, extracting substrings from strings, and creating date parts. 
