@@ -20,6 +20,8 @@ With VLOOKUP, the value that you look up must exist in the first *column* of the
 ## Prework
 * Video: [2 Practical Excel Lookup Examples](https://www.youtube.com/watch?v=hwL6KKJP-_I).
 
+---
+
 ## In-class work
 
 ### Discuss: overview of the VLOOKUP function (10 min)
@@ -128,5 +130,10 @@ Paste your GitHub link here:
 
 ### !end-challenge
 
+---
+
 ## Solutions
 Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=1I5THzik_mmM8ISn7HKi_zj58mAgvVdny) spreadsheet. These are intended for use after the exercises are completed.
+
+## Postwork
+* Using the data for your capstone project, practice fetching data using VLOOKUP and HLOOKUP. 
