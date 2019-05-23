@@ -17,6 +17,8 @@ This lesson teaches you how to import the most common types of data text files t
 * Text: [CSV vs XML vs JSON – which is the best response data format?](https://applerepairstation.co.uk/csv-vs-xml-vs-json-which-is-the-best-response-data-format/).
 * Video: [how to best import external data into Excel, and import data from the web to Excel](). 
 
+---
+
 ## In-class work
 
 ### Discuss CSV, JSON, and XML files (15 min)
@@ -142,6 +144,8 @@ Import an XML data file into Excel.
 1. Download the part.xml file from the TPC-H Relational Database Benchmark section on [this](http://aiweb.cs.washington.edu/research/projects/xmltk/xmldata/www/repository.html#tpc-h) page.
 2. Use Data > From Other Sources > From File > From XML Data Import functionality to import the part.xml data into an Excel tab.
 3. Examine results of the data import into Excel to confirm that it loaded correctly.
+
+---
 
 ## Solutions
 Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=1JKcyAntKu4jzQHzJtgkmq1hXyb6QfFFJ) spreadsheet. These are intended for use after the exercises are completed.
