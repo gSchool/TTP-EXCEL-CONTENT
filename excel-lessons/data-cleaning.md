@@ -12,6 +12,8 @@ Once data analysts import data, the next step is to make it useable for analysis
 * Video: [data cleaning with Excel](https://www.youtube.com/watch?v=WRk9t5yo5Zs).
 * Text: [top ten ways to clean your data](https://support.office.com/en-us/article/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19). (This is long; it's okay to skim it.)
 
+---
+
 ## In-class work
 
 ### Discuss: data cleaning (5 min)
@@ -86,8 +88,13 @@ Work individually.
     * Paste a link of your findings in the class Slack channel.
 2. Present your findings with your classmates. (15 min)
 
+---
+
 ## Solutions
 Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0) spreadsheet. These are intended for use after the exercises are completed.
+
+## Postwork
+* Using the data for your capstone project, practice cleaning the data. 
 
 ## Resources
 * Video: [top 10: advanced Excel tips 2018](https://www.youtube.com/watch?v=YqS0x0yshlo&feature=youtu.be).
