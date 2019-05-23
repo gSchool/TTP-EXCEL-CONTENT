@@ -18,10 +18,7 @@ With VLOOKUP, the value that you look up must exist in the first *column* of the
 * Apply parameters to alter a LOOKUP.
  
 ## Prework
-* Video: [introducing LOOKUP functions](https://teamtreehouse.com/library/introducing-lookup-functions).
-* Video: [using VLOOKUP to search in a column](https://teamtreehouse.com/library/using-vlookup-to-search-in-a-column).
-* Video: [using HLOOKUP to search in a row](https://teamtreehouse.com/library/using-hlookup-to-search-in-a-row).
-* Video: [LOOKUP tips and common errors](https://teamtreehouse.com/library/lookup-tips-and-common-errors).
+* Video: [2 Practical Excel Lookup Examples](https://www.youtube.com/watch?v=hwL6KKJP-_I).
 
 ## In-class work
 
