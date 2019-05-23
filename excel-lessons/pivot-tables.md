@@ -22,6 +22,8 @@ For example, imagine that you want to know how users interact with the videos on
 * Video: [advanced Excel - creating pivot tables in Excel tutorial 2018](https://www.youtube.com/watch?v=BkmxrvIfDGA&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=11).
 * Video: [advanced Excel - using "recommended pivot tables"](https://www.youtube.com/watch?v=ebdgGbsTWs8&list=PL_iwD7O7FG7jzLQIYm6-9Gx3hvXVUG7C5&index=12).
 
+---
+
 ## In-class work
 
 ### Discuss: overview of pivot tables (20 min)
@@ -197,8 +199,11 @@ Paste your GitHub the link here:
 6. Create at least two pivot tables to analyze the data.
 7. Sort and format the pivot tables so that they're ready to share with a stakeholder.
 
+---
+
 ## Solutions
 Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=1o5tJpQQ6mcPWhNaNE4SR5El2FhWCTF9Y) spreadsheet. These are intended for use after the exercises are completed.
 
 ## Postwork
-Complete the Excel portion of your Student Project. 
+* Using the data for your capstone project, practice generating aggregates with pivot tables. Provide at least three take-aways. 
+* Complete the Excel postion of your capstone project. 
