@@ -93,9 +93,6 @@ Work individually.
 ## Solutions
 Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=12TsaeEyFddHlRJyPtDcwzwBdcD3wejT0) spreadsheet. These are intended for use after the exercises are completed.
 
-## Postwork
-* Using the data for your capstone project, practice cleaning the data. 
-
 ## Resources
 * Video: [top 10: advanced Excel tips 2018](https://www.youtube.com/watch?v=YqS0x0yshlo&feature=youtu.be).
 * Video: [formula auditing tricks in Excel](https://www.youtube.com/watch?v=dCK_LG3Nk6Q&list=PLnVcHd3TXd2qNpfJyfQkwHO70gaZZ79L8&index=3_).

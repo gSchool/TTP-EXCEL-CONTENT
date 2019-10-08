@@ -8,7 +8,7 @@
 
 ##### !question
 
-How do you feel about Excel? Do you feel comfortable combining data from different sources and creating pivot tables? 
+How do you feel about Excel after all these exercises?  
 
 ##### !end-question
 

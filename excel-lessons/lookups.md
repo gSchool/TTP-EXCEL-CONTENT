@@ -135,5 +135,3 @@ Paste your GitHub link here:
 ## Solutions
 Example solutions to the exercises in this lesson above are available in [this](https://drive.google.com/uc?export=download&id=1I5THzik_mmM8ISn7HKi_zj58mAgvVdny) spreadsheet. These are intended for use after the exercises are completed.
 
-## Postwork
-* Using the data for your capstone project, practice fetching data using VLOOKUP and HLOOKUP. 

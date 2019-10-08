@@ -4,9 +4,7 @@
 <strong>Aside:</strong><br>
 Hello there! 
 
-We’re so glad that you’re in our first-ever remote Data Analytics course. 
-
-We want this course to be perfect for you, but we also know that when a product is new there are always going to be kinks to work out—and you’re part of that process. So, do expect some kinks and please report all of them in your bi-weekly surveys so that we’re able to keep improving this course for you and future classes. Thank you! 
+We want this course to be perfect for you, but we also know that when a product is new there are always going to be kinks to work out—and you’re part of that process. So, do expect some kinks and please report all of them in your weekly surveys so that we’re able to keep improving this course for you and future classes. Thank you! 
 </div>
 
 <br>

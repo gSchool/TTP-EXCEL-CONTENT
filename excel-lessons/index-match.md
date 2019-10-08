@@ -131,8 +131,6 @@ Paste your GitHub link here:
 ## Solutions
 Example solutions to the exercises in this lesson are available in [this](https://drive.google.com/uc?export=download&id=1_wng2adQL5kCO8bZjJg13HWISiJbkpU3) spreadsheet. These are intended for use after the exercises are completed.
 
-## Postwork
-Using the data for your capstone project, practice fetching data using INDEX and MATCH. 
 
 ## Resources
 Video: [advanced Excel Index Match (3 most effective formulas for multiple criteria)](https://www.youtube.com/watch?v=ontXHp9cwOQ).
