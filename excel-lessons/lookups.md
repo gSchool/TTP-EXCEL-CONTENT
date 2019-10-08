@@ -1,9 +1,9 @@
-# LOOKUP
+# VLOOKUP & HLOOKUP
 
 <div class='bg-info' style='padding:8px;border-style:solid;border-width:2px;border-color:#00BFFF'>
 <strong>Aside:</strong><br>
 
-The lessons *LOOKUP* and *INDEX and MATCH* explore Excel functions that are similar to SQL joins in that they allow you to combine data from multiple tables. Since data analysts often work with both Excel and SQL, it’s important to know how to combine data from multiple tables in both platforms.
+The lessons *VLOOKUP* and *INDEX and MATCH* explore Excel functions that are similar to SQL joins in that they allow you to combine data from multiple tables. Since data analysts often work with both Excel and SQL, it’s important to know how to combine data from multiple tables in both platforms.
 </div>
 
 <br>

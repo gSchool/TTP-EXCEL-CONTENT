@@ -41,6 +41,6 @@ It’s also useful to know that there are other tool like Excel available; Googl
 1. [Importing data (Excel)](../excel-lessons/data-importing.md).
 2. [Data cleaning](../excel-lessons/data-cleaning.md).
 3. [Columns](../excel-lessons/columns.md).
-4. [LOOKUP](../excel-lessons/lookups.md).
+4. [VLOOKUP & HLOOKUP](../excel-lessons/lookups.md).
 5. [INDEX and MATCH](../excel-lessons/index-match.md).
 6. [Pivot tables](../excel-lessons/pivot-tables.md).
