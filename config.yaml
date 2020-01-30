@@ -1,12 +1,12 @@
-Title: Excel
+Title: Excel Assessment - TTP Application Part 4 of 4
 Standards:
-  - 
-    Title: Excel
+  -
+    Title: TTP Application, Part 4  - Excel
     UID: 8d20f27d-b8ed-484e-be3c-8f5c05f73a9d
-    Description: Organize, find insights, and communicate findings using advanced spreadsheet capabilites in Microsoft Excel.
+    Description: Organize, find insights, and communicate findings using spreadsheet capabilites of Microsoft Excel.  Part 4 of Application required for TTP.   Please note that all applicants must complete all 4 parts of the application to be considered for the TTP Program! Incomplete applications will not be considered.
     SuccessCriteria:
-      - Load various types of data files into Excel 
-      - Clean and prepare data with Excel 
+      - Load various types of data files into Excel
+      - Clean and prepare data with Excel
       - Analyze data with Excel
     ContentFiles:
       - Type: Lesson
@@ -29,7 +29,7 @@ Standards:
         Path: /excel-lessons/index-match.md
       - Type: Lesson
         UID: 2974faea-d8e3-4428-8391-53f55af42798
-        Path: /excel-lessons/pivot-tables.md  
+        Path: /excel-lessons/pivot-tables.md
       - Type: Checkpoint
         Path: /excel-lessons/checkpoint.md
         UID: 12b395fc-2144-4ca5-b050-413461741b85
